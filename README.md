@@ -18,4 +18,4 @@ My Portfolio
 
 	![](https://github.com/kbolon1/Portfolio/blob/main/images/titanic_graph.png)
   
- 	![](https://github.com/kbolon1/Portfolio/blob/main/images/titanic_heatmap.png)
+ 	![](https://github.com/kbolon1/Portfolio/blob/main/images/titanic_heatmap2.png)
