@@ -36,17 +36,23 @@ A confusion matrix on the Random Forest Model:
 * Used ElasticNet to regularise the model
 * Used Hyperparameter Optimization on Random Forest Regression Model and GridSearchCV
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png" width="250" height="300">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png" width="300" height="350">
 
 # [Project 4: Text Classification with Webscraping](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_04_project)
 * Built a text classification model on song lyrics, the following was performed: 
--download an HTML page with links to songs (https://www.lyrics.com)
--Extract hyperlinks of songs to download and extract song lyrics
--Vectorize the text using the Bag Of Words method and normalised the word counts with term frequency-inverse document frequency (TF-IDF)
--train a classification model (logistic regression model) that predicts the artist from a piece of text
+- Downloaded an HTML page with links to songs (https://www.lyrics.com)
+- Extracted hyperlinks of songs to download and extract song lyrics
+- Vectorized the text using the Bag Of Words method and normalised the word counts with term frequency-inverse document frequency (TF-IDF)
+- Trained a classification model (logistic regression model) that predicts the artist from a piece of text
 
-| The Tragically Hip      | Gwen Stefani |
-| ----------- | ----------- |
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+
+| The Tragically Hip     	 | Gwen Stefani 		|
+| ------------------------------ | ---------------------------- |
 | 
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="250" height="250">      | <img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="250" height="250">       |
 
