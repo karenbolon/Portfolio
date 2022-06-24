@@ -24,14 +24,14 @@ A confusion matrix on the Random Forest Model:
 	
 
 
-# [Project 3: Capital Bike Sharing (https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_03_project)
+# [Project 3: Capital Bike Sharing] (https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_03_project)
 
 * Built and trained a regression model on the Capital Bike Share (Washington, D.C.) Kaggle data set (https://www.kaggle.com/competitions/bike-sharing-demand/data), in order to predict demand for bicycle rentals at any given hour, based on time and weather
 * Imported and cleaned data, performed exploratory data analysis (EDA), using Pandas for Time Series Analysis 
 
 	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_rentals.png)
 	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_graphs6.png)
-	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_heatmap.png)
+	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_heatmap.png, width="50" height="100")
 * Performed Data Engineering using Pipelines, ColumnTransformer, OneHotEncoder, MinMaxScaler, StandardScaler, and RobustScaler
 * Trained regression models (Random Forest Regression, Linear Regression, Polynomial Regression with Cross Validation) to find the best Root Mean Squared Log Error (RMSLE)  
 * Used ElasticNet to regularise the model
@@ -39,7 +39,7 @@ A confusion matrix on the Random Forest Model:
 
 	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png)
 
-# [Project 4: Text Classification with Webscraping (https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_04_project)
+# [Project 4: Text Classification with Webscraping] (https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_04_project)
 
 * Built a text classification model on song lyrics, the following was performed: 
 -download an HTML page with links to songs (https://www.lyrics.com)
@@ -47,4 +47,6 @@ A confusion matrix on the Random Forest Model:
 -Vectorize the text using the Bag Of Words method and normalised the word counts with term frequency-inverse document frequency (TF-IDF)
 -train a classification model (logistic regression model) that predicts the artist from a piece of text
 
-![](https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png) | ![](https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png)
+
+![](https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png) ![](https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png)
+
