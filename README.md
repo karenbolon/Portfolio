@@ -45,6 +45,11 @@ A confusion matrix on the Random Forest Model:
 -Vectorize the text using the Bag Of Words method and normalised the word counts with term frequency-inverse document frequency (TF-IDF)
 -train a classification model (logistic regression model) that predicts the artist from a piece of text
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="250" height="250">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="250" height="250">
+| The Tragically Hip      | Gwen Stefani |
+| ----------- | ----------- |
+| 
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="250" height="250">      | <img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="250" height="250">       |
+
+
+
 
