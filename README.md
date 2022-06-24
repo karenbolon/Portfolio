@@ -57,7 +57,7 @@ A confusion matrix on the Random Forest Model:
 * Built a data pipeline with Docker-compose that collected tweets and stored them in a MongoDB database. 
 * Created an ETL job that pulled the tweets from MongoDB for sentiment analysis and then stored the analysed tweets on a second database (PostgreSQL).
 
-![](https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_Sentiment_George_Takei.png)
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_Sentiment_George_Takei.png" width="500" height="300"> 
 
 # [Project 7: Time Series Analysis](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_07_project)
 
@@ -69,11 +69,11 @@ A confusion matrix on the Random Forest Model:
 	- Auto Regressive Integreated Moving Average (ARIMA)
 * Evaluated the model using Cross-Validation Time Series Split
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Temp_Seasonality.png" width="300" height="400"> 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/ARIMA_chart.png" width="300" height="400"> 
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Temp_Seasonality.png" width="500" height="300"> 
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/ARIMA_chart.png" width="500" height="300"> 
 
 # [Project 8: Markov Chain Monte Carlo](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_08_project)
 
 * Used Pandas and NumPy for data wrangling, calculated a transition probabilities matrix (a 5x5 matrix), implemented a customer class, and then run a MCMC simluation for customer(s).
 
-			![](https://github.com/kbolon1/Portfolio/blob/main/images/MCMC_EDA.png)
+![](https://github.com/kbolon1/Portfolio/blob/main/images/MCMC_EDA.png)
