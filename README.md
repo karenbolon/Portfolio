@@ -38,3 +38,13 @@ A confusion matrix on the Random Forest Model:
 * Used Hyperparameter Optimization on Random Forest Regression Model and GridSearchCV
 
 	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png)
+
+# [Project 4: Text Classification with Webscraping (https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_04_project)
+
+* Built a text classification model on song lyrics, the following was performed: 
+-download an HTML page with links to songs (https://www.lyrics.com)
+-Extract hyperlinks of songs to download and extract song lyrics
+-Vectorize the text using the Bag Of Words method and normalised the word counts with term frequency-inverse document frequency (TF-IDF)
+-train a classification model (logistic regression model) that predicts the artist from a piece of text
+
+![](https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png) | ![](https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png)
