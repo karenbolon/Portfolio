@@ -22,22 +22,21 @@ A graph showing those that survived vs perished by age.
 A confusion matrix on the Random Forest Model: 
  	![](https://github.com/kbolon1/Portfolio/blob/main/images/titanic_confusionmatrix.png)
 	
-
-
-# [Project 3: Capital Bike Sharing] (https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_03_project)
+# [Project 3: Capital Bike Sharing](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_03_project)]
 
 * Built and trained a regression model on the Capital Bike Share (Washington, D.C.) Kaggle data set (https://www.kaggle.com/competitions/bike-sharing-demand/data), in order to predict demand for bicycle rentals at any given hour, based on time and weather
 * Imported and cleaned data, performed exploratory data analysis (EDA), using Pandas for Time Series Analysis 
 
 	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_rentals.png)
 	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_graphs6.png)
-	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_heatmap.png, width="50" height="100")
+	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_heatmap.png)
+	
 * Performed Data Engineering using Pipelines, ColumnTransformer, OneHotEncoder, MinMaxScaler, StandardScaler, and RobustScaler
 * Trained regression models (Random Forest Regression, Linear Regression, Polynomial Regression with Cross Validation) to find the best Root Mean Squared Log Error (RMSLE)  
 * Used ElasticNet to regularise the model
 * Used Hyperparameter Optimization on Random Forest Regression Model and GridSearchCV
 
-	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png)
+	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png =50x100)
 
 # [Project 4: Text Classification with Webscraping] (https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_04_project)
 
@@ -48,5 +47,5 @@ A confusion matrix on the Random Forest Model:
 -train a classification model (logistic regression model) that predicts the artist from a piece of text
 
 
-![](https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png) ![](https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png)
+![](https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png =250x250)![](https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png =250x250)
 
