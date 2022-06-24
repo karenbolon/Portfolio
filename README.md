@@ -44,7 +44,7 @@ A confusion matrix on the Random Forest Model:
 	- Vectorized the text using the Bag Of Words method and normalised the word counts with term frequency-inverse document frequency (TF-IDF)
 	- Trained a classification model (logistic regression model) that predicts the artist from a piece of text
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="250" height="250">       
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="250" height="250">    
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="250" height="250">       
 
 # [Project 5: Dashboard using Northwind Database](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_05_project/northwind)
@@ -69,9 +69,11 @@ A confusion matrix on the Random Forest Model:
 	- Auto Regressive Integreated Moving Average (ARIMA)
 * Evaluated the model using Cross-Validation Time Series Split
 
-![](https://github.com/kbolon1/Portfolio/blob/main/images/Temp_Seasonality.png)
-![](https://github.com/kbolon1/Portfolio/blob/main/images/ARIMA_chart.png)
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Temp_Seasonality.png" width="300" height="400"> 
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/ARIMA_chart.png" width="300" height="400"> 
 
 # [Project 8: Markov Chain Monte Carlo](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_08_project)
 
-* Created a short-term tem
+* Used Pandas and NumPy for data wrangling, calculated a transition probabilities matrix (a 5x5 matrix), implemented a customer class, and then run a MCMC simluation for customer(s).
+
+			![](https://github.com/kbolon1/Portfolio/blob/main/images/MCMC_EDA.png)
