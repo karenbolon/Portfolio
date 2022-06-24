@@ -36,7 +36,7 @@ A confusion matrix on the Random Forest Model:
 * Used ElasticNet to regularise the model
 * Used Hyperparameter Optimization on Random Forest Regression Model and GridSearchCV
 
-	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png =50x100)
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png" width="250" height="300">
 
 # [Project 4: Text Classification with Webscraping](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_04_project)
 * Built a text classification model on song lyrics, the following was performed: 
@@ -45,6 +45,6 @@ A confusion matrix on the Random Forest Model:
 -Vectorize the text using the Bag Of Words method and normalised the word counts with term frequency-inverse document frequency (TF-IDF)
 -train a classification model (logistic regression model) that predicts the artist from a piece of text
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="50" height="50">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="50" height="50">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="250" height="250">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="250" height="250">
 
