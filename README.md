@@ -9,7 +9,6 @@ My Portfolio
 
 	![](https://github.com/kbolon1/Portfolio/blob/main/images/gapminder_output.gif)
 
-
 # [Project 2: Titanic Machine Learning from Disaster (Predicting Survival Rates)](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_02_project)
 
 * Collected data from Kaggle (https://www.kaggle.com/c/titanic)
@@ -25,7 +24,7 @@ A confusion matrix on the Random Forest Model:
 # [Project 3: Capital Bike Sharing](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_03_project)
 
 * Built and trained a regression model on the Capital Bike Share (Washington, D.C.) Kaggle data set (https://www.kaggle.com/competitions/bike-sharing-demand/data), in order to predict demand for bicycle rentals at any given hour, based on time and weather
-* Imported and cleaned data, performed exploratory data analysis (EDA), using Pandas for Time Series Analysis 
+* Imported and cleaned data, performed exploratory data analysis (EDA) using Pandas 
 
 	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_rentals.png)
 	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_graphs6.png)
@@ -36,26 +35,43 @@ A confusion matrix on the Random Forest Model:
 * Used ElasticNet to regularise the model
 * Used Hyperparameter Optimization on Random Forest Regression Model and GridSearchCV
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png" width="300" height="350">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png" width="450" height="200">
 
 # [Project 4: Text Classification with Webscraping](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_04_project)
 * Built a text classification model on song lyrics, the following was performed: 
-- Downloaded an HTML page with links to songs (https://www.lyrics.com)
-- Extracted hyperlinks of songs to download and extract song lyrics
-- Vectorized the text using the Bag Of Words method and normalised the word counts with term frequency-inverse document frequency (TF-IDF)
-- Trained a classification model (logistic regression model) that predicts the artist from a piece of text
+	- Downloaded an HTML page with links to songs (https://www.lyrics.com)
+	- Extracted hyperlinks of songs to download and extract song lyrics
+	- Vectorized the text using the Bag Of Words method and normalised the word counts with term frequency-inverse document frequency (TF-IDF)
+	- Trained a classification model (logistic regression model) that predicts the artist from a piece of text
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="250" height="250">       
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="250" height="250">       
 
-| The Tragically Hip     	 | Gwen Stefani 		|
-| ------------------------------ | ---------------------------- |
-| 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="250" height="250">      | <img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="250" height="250">       |
+# [Project 5: Dashboard using Northwind Database](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_05_project/northwind)
 
+* Build a dashboard summarizing the Northwind Database (a sample database from Microsoft Access). 
+* Used PostgreSQL to create tables in database, uploaded the data AWS EC2 Ubuntu server and then connected to Metabase to create a Dashboard.
 
+# [Project 6: Twitter Sentiment Project](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_06_project)
 
+* Built a data pipeline with Docker-compose that collected tweets and stored them in a MongoDB database. 
+* Created an ETL job that pulled the tweets from MongoDB for sentiment analysis and then stored the analysed tweets on a second database (PostgreSQL).
 
+![](https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_Sentiment_George_Takei.png)
+
+# [Project 7: Time Series Analysis](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_07_project)
+
+* Created a short-term temperature forecast using data from (www.ecad.eu).
+* Built a baseline model modelling trend and seasonality, plotted and inspected the different components of a time series.
+* Used the following models to model the time dependence of the remainder:
+	- Linear Regression
+	- Autoregression
+	- Auto Regressive Integreated Moving Average (ARIMA)
+* Evaluated the model using Cross-Validation Time Series Split
+
+![](https://github.com/kbolon1/Portfolio/blob/main/images/Temp_Seasonality.png)
+![](https://github.com/kbolon1/Portfolio/blob/main/images/ARIMA_chart.png)
+
+# [Project 8: Markov Chain Monte Carlo](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_08_project)
+
+* Created a short-term tem
