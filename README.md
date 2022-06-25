@@ -77,7 +77,7 @@ A confusion matrix on the Random Forest Model:
 * Created a simulation of customer behavior in a supermarket using Markov-Chain Monte Carlo methods.
 * Used Pandas and NumPy for data wrangling, calculated a transition probabilities matrix, implemented a customer class, and then run a MCMC simulation for customer(s).
 
-![](https://github.com/kbolon1/Portfolio/blob/main/images/MCMC_EDA.png)
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/MCMC_EDA.png" width="200" height="200">
 
 # [Project: Neural Networks Image Classification](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_09_project)
 
@@ -85,6 +85,20 @@ A confusion matrix on the Random Forest Model:
 * Created a deep learning environment to run tensorflow and keras
 * Built a neural network from scratch and then used transfer learning with a pretrained model (MobileNetV2) with transfer learning
 
-![](https://github.com/kbolon1/Portfolio/blob/main/images/5Things_accuracy.png)
-![](https://github.com/kbolon1/Portfolio/blob/main/images/Predictions.png)
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/5Things_accuracy.png" width="200" height="200">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Predictions.png" width="200" height="200">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Flower.png" width="200" height="200">
+
+# [Project: Recommender Systems](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_10_project)
+
+* Built a web application that showcases movie recommendations using the small version of the MovieLens-dataset (https://grouplens.org/datasets/movielens/)
+* Performed data engineering on missing data(KNN Imputer, Mean Movie Ratings).
+* Implemented the following models trying to find the lowest Mean Error :
+	- Simple recommender based on correlations
+	- Non-Negative Matrix Factorization model
+	- KMeans (clustering)
+	- Nearest Neighbour
+* Wrote a flask web interface and connected the recommender-model to flask
+
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Main.png" width="300" height="200">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Second.png" width="300" height="200">
