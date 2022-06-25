@@ -85,8 +85,8 @@ A confusion matrix on the Random Forest Model:
 * Created a deep learning environment to run tensorflow and keras
 * Built a neural network from scratch and then used transfer learning with a pretrained model (MobileNetV2) with transfer learning
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/5Things_accuracy.png" width="200" height="200">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Predictions.png" width="200" height="200">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/5Things_accuracy.png" width="500" height="400">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Predictions.png" width="400" height="400">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Flower.png" width="200" height="200">
 
 # [Project: Recommender Systems](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_10_project)
@@ -100,5 +100,22 @@ A confusion matrix on the Random Forest Model:
 	- Nearest Neighbour
 * Wrote a flask web interface and connected the recommender-model to flask
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Main.png" width="300" height="200">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Second.png" width="300" height="200">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Main.png" width="600" height="400">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Second.png" width="600" height="400">
+
+# [Final Project: Image Classification Using Transfer Learning on ResNet152 Model](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/Project)
+
+Goal: to trained a model to distinguish between an eye suffering from diabetic retinopathy (blindness caused by high blood sugar levels) and a healthy eye. 
+![](https://github.com/kbolon1/Portfolio/blob/main/images/Eye_Fundus.png)
+Datasets from Kaggle, I used the preprocessed images:
+	- https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
+	- https://www.kaggle.com/competitions/aptos2019-blindness-detection/data
+	- https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data
+
+* Used Plotly to show the prevalence of diabetes with data pulled from the World Bank (https://databank.worldbank.org/home.aspx)
+![](https://github.com/kbolon1/Portfolio/blob/main/images/Diabetes_Plotly_2011.png)
+![](https://github.com/kbolon1/Portfolio/blob/main/images/Diabetes_Plotly_2021.png)
+* Created a Deep-Learning Environment for Tensorflow and Keras at the beginning and then moved to Google Colab as the sample size were large
+* Used Keras Preprocessing on the images to resize and to augment
+* Built my own CNN model with 3 Convoluted layers with MaxPooling, a Flattening layer, and 3 Dense Layers with Dropout and Batch Normalization while using a mix of RELU and Sigmoid activations and selected Categorical_crossentropy for loss function.
+* Tried a VGG19 model and then a ResNet152 model with transfer learning. Eventually trained it on a sample of 5000 images of each class with only 50% accuracy rate. I am still working on improving this.
