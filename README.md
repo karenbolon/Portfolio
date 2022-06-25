@@ -1,7 +1,7 @@
 # Portfolio
 My Portfolio
 
-# [Project 1: GIFs of Fertility Rate vs Life Expectancy](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/Gapminder_Analysis_GIF_Project)
+# [Project: GIFs of Fertility Rate vs Life Expectancy](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/Gapminder_Analysis_GIF_Project)
 
 * Collected data from gapminder project (https://www.gapminder.org/data/)
 * Used pandas to import and merge data 
@@ -9,7 +9,7 @@ My Portfolio
 
 	![](https://github.com/kbolon1/Portfolio/blob/main/images/gapminder_output.gif)
 
-# [Project 2: Titanic Machine Learning from Disaster (Predicting Survival Rates)](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_02_project)
+# [Project: Titanic Machine Learning from Disaster (Predicting Survival Rates)](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_02_project)
 
 * Collected data from Kaggle (https://www.kaggle.com/c/titanic)
 * Built and compared a variety of Machine Learning classifiers with scikit-learn (logistic regression, support vector machine, random forest) to predict survival of passengers on the Titanic
@@ -21,7 +21,7 @@ A graph showing those that survived vs perished by age.
 A confusion matrix on the Random Forest Model: 
  	![](https://github.com/kbolon1/Portfolio/blob/main/images/titanic_confusionmatrix.png)
 	
-# [Project 3: Capital Bike Sharing](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_03_project)
+# [Project: Capital Bike Sharing](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_03_project)
 
 * Built and trained a regression model on the Capital Bike Share (Washington, D.C.) Kaggle data set (https://www.kaggle.com/competitions/bike-sharing-demand/data), in order to predict demand for bicycle rentals at any given hour, based on time and weather
 * Imported and cleaned data, performed exploratory data analysis (EDA) using Pandas 
@@ -37,7 +37,7 @@ A confusion matrix on the Random Forest Model:
 
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png" width="450" height="200">
 
-# [Project 4: Text Classification with Webscraping](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_04_project)
+# [Project: Text Classification with Webscraping](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_04_project)
 * Built a text classification model on song lyrics, the following was performed: 
 	- Downloaded an HTML page with links to songs (https://www.lyrics.com)
 	- Extracted hyperlinks of songs to download and extract song lyrics
@@ -47,19 +47,19 @@ A confusion matrix on the Random Forest Model:
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="250" height="250">    
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="250" height="250">       
 
-# [Project 5: Dashboard using Northwind Database](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_05_project/northwind)
+# [Project: Dashboard using Northwind Database](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_05_project/northwind)
 
 * Build a dashboard summarizing the Northwind Database (a sample database from Microsoft Access). 
 * Used PostgreSQL to create tables in database, uploaded the data AWS EC2 Ubuntu server and then connected to Metabase to create a Dashboard.
 
-# [Project 6: Twitter Sentiment Project](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_06_project)
+# [Project: Twitter Sentiment Project](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_06_project)
 
 * Built a data pipeline with Docker-compose that collected tweets and stored them in a MongoDB database. 
 * Created an ETL job that pulled the tweets from MongoDB for sentiment analysis and then stored the analysed tweets on a second database (PostgreSQL).
 
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_Sentiment_George_Takei.png" width="500" height="300"> 
 
-# [Project 7: Time Series Analysis](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_07_project)
+# [Project: Time Series Analysis](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_07_project)
 
 * Created a short-term temperature forecast using data from (www.ecad.eu).
 * Built a baseline model modelling trend and seasonality, plotted and inspected the different components of a time series.
@@ -72,8 +72,19 @@ A confusion matrix on the Random Forest Model:
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Temp_Seasonality.png" width="500" height="300"> 
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/ARIMA_chart.png" width="500" height="300"> 
 
-# [Project 8: Markov Chain Monte Carlo](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_08_project)
+# [Project: Markov Chain Monte Carlo](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_08_project)
 
-* Used Pandas and NumPy for data wrangling, calculated a transition probabilities matrix (a 5x5 matrix), implemented a customer class, and then run a MCMC simluation for customer(s).
+* Created a simulation of customer behavior in a supermarket using Markov-Chain Monte Carlo methods.
+* Used Pandas and NumPy for data wrangling, calculated a transition probabilities matrix, implemented a customer class, and then run a MCMC simulation for customer(s).
 
 ![](https://github.com/kbolon1/Portfolio/blob/main/images/MCMC_EDA.png)
+
+# [Project: Neural Networks Image Classification](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_09_project)
+
+* Built an image classifier by collecting my own photos through a webcam to make predictions on images
+* Created a deep learning environment to run tensorflow and keras
+* Built a neural network from scratch and then used transfer learning with a pretrained model (MobileNetV2) with transfer learning
+
+![](https://github.com/kbolon1/Portfolio/blob/main/images/5Things_accuracy.png)
+![](https://github.com/kbolon1/Portfolio/blob/main/images/Predictions.png)
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Flower.png" width="200" height="200">
