@@ -6,7 +6,7 @@ My Portfolio
 * Created a simulation of customer behavior in a supermarket using Markov-Chain Monte Carlo methods.
 * Used Pandas and NumPy for data wrangling, calculated a transition probabilities matrix, implemented a customer class, and then run a MCMC simulation for customer(s).
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/MCMC_EDA.png" width="200" height="200">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/MCMC_EDA.png" width="5000" height="350">
 
 # [Project: Neural Networks Image Classification](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/week_09_project)
 
