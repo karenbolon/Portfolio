@@ -3,7 +3,7 @@ My Portfolio
 
 # [Image Classification Using Transfer Learning on ResNet152 Model](https://github.com/kbolon1/Diabetic_Retinopathy_Image_Classifier)
 
-Goal: trained a model to distinguish between an eye suffering from diabetic retinopathy (blindness caused by high blood sugar levels) and a healthy eye. 
+Goal: to train a model to distinguish between an eye suffering from diabetic retinopathy (blindness caused by high blood sugar levels) and a healthy eye. 
 ![](https://github.com/kbolon1/Portfolio/blob/main/images/Eye_Fundus.png)
 Datasets from Kaggle, I used the preprocessed images:
 	- https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
