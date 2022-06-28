@@ -25,7 +25,7 @@ Datasets from Kaggle, I used the preprocessed images:
 
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/MCMC_EDA.png" width="500" height="350">
 
-# [Image Classification: Neural Networks Using Webcam]()
+# [Image Classification: Neural Networks Using Webcam](https://github.com/kbolon1/Image_Classification_Webcam)
 
 * Built an image classifier by collecting my own photos through a webcam to make predictions on images
 * Created a deep learning environment to run tensorflow and keras
@@ -100,7 +100,7 @@ A confusion matrix on the Random Forest Model:
 * Build a dashboard summarizing the Northwind Database (a sample database from Microsoft Access). 
 * Used PostgreSQL to create tables in database, uploaded the data AWS EC2 Ubuntu server and then connected to Metabase to create a Dashboard.
 
-# [Sentiment Analysis Project: Twitter API (Docker and MongoDB](https://github.com/spicedacademy/fenugreek-student-code/tree/karen/Twitter_pipeline)
+# [Sentiment Analysis Project: Twitter API (Docker and MongoDB](https://github.com/kbolon1/Twitter_Pipeline)
 
 * Built a data pipeline with Docker-compose that collected tweets and stored them in a MongoDB database. 
 * Created an ETL job that pulled the tweets from MongoDB for sentiment analysis and then stored the analysed tweets on a second database (PostgreSQL).
