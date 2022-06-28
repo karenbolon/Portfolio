@@ -25,16 +25,6 @@ Datasets from Kaggle, I used the preprocessed images:
 
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/MCMC_EDA.png" width="500" height="350">
 
-# [Image Classification: Neural Networks Using Webcam](https://github.com/kbolon1/Image_Classification_Webcam)
-
-* Built an image classifier by collecting my own photos through a webcam to make predictions on images
-* Created a deep learning environment to run tensorflow and keras
-* Built a neural network from scratch and then used transfer learning with a pretrained model (MobileNetV2) with transfer learning
-
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/5Things_accuracy.png" width="600" height="400">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Predictions.png" width="400" height="300">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Flower.png" width="200" height="200">
-
 # [Recommender Systems: Movie Recommender](https://github.com/kbolon1/Movie_Recommender)
 
 * Built a web application that showcases movie recommendations using the small version of the MovieLens-dataset (https://grouplens.org/datasets/movielens/)
@@ -48,6 +38,41 @@ Datasets from Kaggle, I used the preprocessed images:
 
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Main.png" width="600" height="400">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Second.png" width="600" height="400">
+
+# [Text Classification Project: Webscraping Lyrics](https://github.com/kbolon1/Web_Scraper)
+* Built a text classification model on song lyrics, the following was performed: 
+	- Downloaded an HTML page with links to songs (https://www.lyrics.com)
+	- Extracted hyperlinks of songs to download and extract song lyrics
+	- Vectorized the text using the Bag Of Words method and normalised the word counts with term frequency-inverse document frequency (TF-IDF)
+	- Trained a classification model (logistic regression model) that predicts the artist from a piece of text
+
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="250" height="250">    
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="250" height="250">  
+
+# [Sentiment Analysis Project: Twitter API (Docker and MongoDB](https://github.com/kbolon1/Twitter_Pipeline)
+
+* Built a data pipeline with Docker-compose that collected tweets and stored them in a MongoDB database. 
+* Created an ETL job that pulled the tweets from MongoDB for sentiment analysis and then stored the analysed tweets on a second database (PostgreSQL).
+
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_Sentiment_George_Takei.png" width="500" height="300"> 
+
+# [Project: Short-Term Weather Forecast-Time Series Analysis](https://github.com/kbolon1/Time_Series_Analysis)
+
+* Created a short-term temperature forecast using data from (www.ecad.eu).
+* Built a baseline model modelling trend and seasonality, plotted and inspected the different components of a time series.
+* Used the following models to model the time dependence of the remainder:
+	- Linear Regression
+	- Autoregression
+	- Auto Regressive Integreated Moving Average (ARIMA)
+* Evaluated the model using Cross-Validation Time Series Split
+
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Temp_Seasonality.png" width="500" height="300"> 
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/ARIMA_chart.png" width="500" height="300"> 
+
+# [Project: Dashboard using Northwind Database (AWS/EC2/Ubuntu/Metabase)](https://github.com/kbolon1/Dashboard_PostgreSQL)
+
+* Build a dashboard summarizing the Northwind Database (a sample database from Microsoft Access). 
+* Used PostgreSQL to create tables in database, uploaded the data AWS EC2 Ubuntu server and then connected to Metabase to create a Dashboard.
 
 # [Visual Data Analysis: Gapminder Data with GIFs of Fertility Rate vs Life Expectancy](https://github.com/kbolon1/Gapminder)
 
@@ -84,40 +109,14 @@ A confusion matrix on the Random Forest Model:
 * Used Hyperparameter Optimization on Random Forest Regression Model and GridSearchCV
 
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png" width="450" height="200">
+     
 
-# [Text Classification Project: Webscraping Lyrics](https://github.com/kbolon1/Web_Scraper)
-* Built a text classification model on song lyrics, the following was performed: 
-	- Downloaded an HTML page with links to songs (https://www.lyrics.com)
-	- Extracted hyperlinks of songs to download and extract song lyrics
-	- Vectorized the text using the Bag Of Words method and normalised the word counts with term frequency-inverse document frequency (TF-IDF)
-	- Trained a classification model (logistic regression model) that predicts the artist from a piece of text
+# [Image Classification: Neural Networks Using Webcam](https://github.com/kbolon1/Image_Classification_Webcam)
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="250" height="250">    
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="250" height="250">       
+* Built an image classifier by collecting my own photos through a webcam to make predictions on images
+* Created a deep learning environment to run tensorflow and keras
+* Built a neural network from scratch and then used transfer learning with a pretrained model (MobileNetV2) with transfer learning
 
-# [Project: Dashboard using Northwind Database (AWS/EC2/Ubuntu/Metabase)](https://github.com/kbolon1/Dashboard_PostgreSQL)
-
-* Build a dashboard summarizing the Northwind Database (a sample database from Microsoft Access). 
-* Used PostgreSQL to create tables in database, uploaded the data AWS EC2 Ubuntu server and then connected to Metabase to create a Dashboard.
-
-# [Sentiment Analysis Project: Twitter API (Docker and MongoDB](https://github.com/kbolon1/Twitter_Pipeline)
-
-* Built a data pipeline with Docker-compose that collected tweets and stored them in a MongoDB database. 
-* Created an ETL job that pulled the tweets from MongoDB for sentiment analysis and then stored the analysed tweets on a second database (PostgreSQL).
-
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_Sentiment_George_Takei.png" width="500" height="300"> 
-
-# [Project: Short-Term Weather Forecast-Time Series Analysis](https://github.com/kbolon1/Time_Series_Analysis)
-
-* Created a short-term temperature forecast using data from (www.ecad.eu).
-* Built a baseline model modelling trend and seasonality, plotted and inspected the different components of a time series.
-* Used the following models to model the time dependence of the remainder:
-	- Linear Regression
-	- Autoregression
-	- Auto Regressive Integreated Moving Average (ARIMA)
-* Evaluated the model using Cross-Validation Time Series Split
-
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Temp_Seasonality.png" width="500" height="300"> 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/ARIMA_chart.png" width="500" height="300"> 
-
-
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/5Things_accuracy.png" width="600" height="400">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Predictions.png" width="400" height="300">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Flower.png" width="200" height="200">
