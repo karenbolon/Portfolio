@@ -49,13 +49,13 @@ Datasets from Kaggle, I used the preprocessed images:
 
 * Used Python, BeautifulSoup, RegEx, Glob, Pillow, WordCloud, Seaborn, NumPy, Pandas, SciKit-Learn
 <p float="left">
-<img src="/https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="250" height="250"/>    
-<img src="/https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="250" height="250"/>  
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="250" height="250"/>    
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="250" height="250"/>  
 </p>
 # [Sentiment Analysis Project: Twitter API (Docker and MongoDB](https://github.com/kbolon1/Twitter_Pipeline)
 * Spiced Academy Project
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_workflow.png" width="350" height="250" class="center"> 
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_workflow.png" width="500" height="250" class="center"> 
 
 * Used Python, MongoDB, Tweeter APIs, tweepy, Docker.
 * Built a data pipeline with Docker-compose that collected tweets and stored them in a MongoDB database. 
