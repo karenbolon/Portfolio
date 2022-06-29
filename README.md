@@ -18,18 +18,18 @@ Can I train an unsupervised machine learning model to accurately diagnose a digi
 
 **Models Used** 
 ResNet152 Neural Network model with transfer learning with the following parameters:
-    - loss=‘categorical_crossentropy'
-    - Optimiser: Adam
-    - Mix of Relu and Softmax Activations
-    - 2 Classes 'diabetic' or 'healthy'
-    - Epochs 300, no early stopping
+ - loss=‘categorical_crossentropy'
+ - Optimiser: Adam
+ - Mix of Relu and Softmax Activations
+ - 2 Classes 'diabetic' or 'healthy'
+ - Epochs 300, no early stopping
 
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Eye_Fundus.png" width="400" height="200">
 
 I used the unprocessed images found on Kaggle:
-    - https://www.kaggle.com/competitions/diabetic-retinopathy-detection
-    - https://www.kaggle.com/competitions/aptos2019-blindness-detection
-    - https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
+ - https://www.kaggle.com/competitions/diabetic-retinopathy-detection
+ - https://www.kaggle.com/competitions/aptos2019-blindness-detection
+ - https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
 
 **Method:**
 * Created a Deep-Learning Environment for Tensorflow and Keras and transfered the work to Google Colab as the sample sizes were too large for my computer to handle.
