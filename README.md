@@ -38,10 +38,10 @@ ____
 	- KMeans (clustering)
 	- Nearest Neighbour
 * Wrote a flask web interface and connected the recommender-model to flask
-* 
+
 <p align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Main.png" width="600" height="450">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Second.png" width="600" height="450">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Main.png" width="600" height="400">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Second.png" width="600" height="400">
 </p>
 	
 ____
