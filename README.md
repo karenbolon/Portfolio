@@ -1,14 +1,11 @@
-# Portfolio
-My Portfolio
-
 # [Image Classification Using Transfer Learning on ResNet152 Model](https://github.com/kbolon1/Diabetic_Retinopathy_Image_Classifier)
 
 Trained a model to distinguish between an eye suffering from diabetic retinopathy (blindness caused by high blood sugar levels) and a healthy eye. 
 ![](https://github.com/kbolon1/Portfolio/blob/main/images/Eye_Fundus.png)
 Datasets from Kaggle, I used the preprocessed images:
-	- https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
-	- https://www.kaggle.com/competitions/aptos2019-blindness-detection/data
-	- https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data
+- https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
+- https://www.kaggle.com/competitions/aptos2019-blindness-detection/data
+- https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data
 
 * Used Plotly to show the prevalence of diabetes with data pulled from the World Bank (https://databank.worldbank.org/home.aspx)
 ![](https://github.com/kbolon1/Portfolio/blob/main/images/Diabetes_Plotly_2011.png)
@@ -61,8 +58,8 @@ ____
 * Used Python, BeautifulSoup, RegEx, Glob, Pillow, WordCloud, Seaborn, NumPy, Pandas, SciKit-Learn
 
 <p float="left" align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="250" height="250"/>    
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="250" height="250"/>  
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="400" height="400"/>    
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="400" height="400"/>  
 </p>
 
 ____
@@ -72,7 +69,7 @@ ____
 * Spiced Academy Project
 
 <p align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_workflow.png" width="650" height="400"> 
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_workflow.png" width="650" height="350"> 
 </p>
 
 * Used Python, MongoDB, Tweeter APIs, tweepy, Docker.
@@ -80,7 +77,7 @@ ____
 * Created an ETL job that pulled the tweets from MongoDB, cleans data and calculates compound sentiment score (Vader Sentiment Analysis) for sentiment analysis and then stored the analysed tweets on a second database (PostgreSQL).
 
 <p align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_Sentiment_George_Takei.png" width="500" height="300" align="center"> 
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_Sentiment_George_Takei.png" width="450" height="300" align="center"> 
 </p>
 
 ____
@@ -110,7 +107,7 @@ ____
 * Created GIF using Seaborn and ImageIO showing fertility rate vs life expectancy between 1960 - 2016
 
 <p align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/gapminder_output.gif" width="400" height="300">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/gapminder_output.gif" width="500" height="400">
 </p>
 
 ____
@@ -152,8 +149,10 @@ ____
 * Used ElasticNet to regularise the model to prevent overfitting
 * Used Hyperparameter Optimization on Random Forest Regression Model and GridSearchCV
 
+<p align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png" width="350" height="175">
-     
+</p>
+	
 ____
 
 # [Image Classification: Neural Networks Using Webcam](https://github.com/kbolon1/Image_Classification_Webcam)
@@ -163,7 +162,7 @@ ____
 * Built a neural network from scratch and then used transfer learning with a pretrained model (MobileNetV2) with transfer learning
 
 <p align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/5Things_accuracy.png" width="600" height="400">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/5Things_accuracy.png" width="700" height="300">
 </p>
 <p float="left" align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Predictions.png" width="400" height="300" align="center"/>
