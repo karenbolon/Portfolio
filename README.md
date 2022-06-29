@@ -56,14 +56,16 @@ Datasets from Kaggle, I used the preprocessed images:
 # [Sentiment Analysis Project: Twitter API (Docker and MongoDB](https://github.com/kbolon1/Twitter_Pipeline)
 
 * Spiced Academy Project
-
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_workflow.png" width="600" height="300" class="center"> 
+<p align="center">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_workflow.png" width="600" height="300"> 
+</p>
 
 * Used Python, MongoDB, Tweeter APIs, tweepy, Docker.
 * Built a data pipeline with Docker-compose that collected tweets and stored them in a MongoDB database. 
 * Created an ETL job that pulled the tweets from MongoDB, cleans data and calculates compound sentiment score (Vader Sentiment Analysis) for sentiment analysis and then stored the analysed tweets on a second database (PostgreSQL).
-
+<p align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_Sentiment_George_Takei.png" width="500" height="300" align="center"> 
+</p>
 
 # [Project: Short-Term Weather Forecast-Time Series Analysis](https://github.com/kbolon1/Time_Series_Analysis)
 
@@ -74,9 +76,10 @@ Datasets from Kaggle, I used the preprocessed images:
 	- Autoregression
 	- Auto Regressive Integreated Moving Average (ARIMA)
 * Evaluated the model using Cross-Validation Time Series Split
-
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Temp_Seasonality.png" width="500" height="300" align="center"> 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/ARIMA_chart.png" width="500" height="300" align="center"> 
+<p float="left" align="center">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Temp_Seasonality.png" width="500" height="300" align="center"/> 
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/ARIMA_chart.png" width="500" height="300" align="center"/> 
+</p>
 
 # [Project: Dashboard using Northwind Database (AWS/EC2/Ubuntu/Metabase)](https://github.com/kbolon1/Dashboard_PostgreSQL)
 
@@ -88,16 +91,19 @@ Datasets from Kaggle, I used the preprocessed images:
 
 * Used python, pandas, seaborn, matplotlib, and NumPy to wrangle and explore data
 * Created GIF using Seaborn and ImageIO showing fertility rate vs life expectancy between 1960 - 2016
-
-	![](https://github.com/kbolon1/Portfolio/blob/main/images/gapminder_output.gif)
-
+<p align="center">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/gapminder_output.gif" width="400" height="300">
+</p>
+	
 # [Classification Project: Titanic Dataset (Predicting Survival Rates)](https://github.com/kbolon1/Titanic_Dataset)
 
 * Used python, pandas, seaborn, NymPy, matplotlib, sklearn
 * Collected data from Kaggle (https://www.kaggle.com/c/titanic)
 * Implemented and compared a variety of Machine Learning classifiers with scikit-learn (logistic regression, support vector machine, random forest) to predict survival of passengers on the Titanic
 
+<p align="center">
 ![](https://github.com/kbolon1/Portfolio/blob/main/images/Titanic_CrossAccuracyLogs.png)
+</p>
 
 * Project consisted of all phases of Machine Learning work-flow: 
 	- train-test-splitting of data, 
@@ -126,7 +132,7 @@ A confusion matrix on the Random Forest Model:
 * Used ElasticNet to regularise the model to prevent overfitting
 * Used Hyperparameter Optimization on Random Forest Regression Model and GridSearchCV
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png" width="450" height="200" align="center">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png" width="350" height="175" align="center">
      
 
 # [Image Classification: Neural Networks Using Webcam](https://github.com/kbolon1/Image_Classification_Webcam)
@@ -134,7 +140,10 @@ A confusion matrix on the Random Forest Model:
 * Built an image classifier by collecting my own photos through a webcam to make predictions on images
 * Created a deep learning environment to run tensorflow and keras
 * Built a neural network from scratch and then used transfer learning with a pretrained model (MobileNetV2) with transfer learning
-
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/5Things_accuracy.png" width="600" height="400" align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Predictions.png" width="400" height="300" align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Flower.png" width="200" height="200" align="center">
+<p align="center">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/5Things_accuracy.png" width="600" height="400">
+</p>
+<p float="left" align="center">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Predictions.png" width="400" height="300" align="center"/>
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Flower.png" width="200" height="200" align="center"/>
+</p>
