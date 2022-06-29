@@ -7,13 +7,17 @@ Datasets from Kaggle, I used the preprocessed images:
 - https://www.kaggle.com/competitions/aptos2019-blindness-detection/data
 - https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data
 
-* Used Plotly to show the prevalence of diabetes with data pulled from the World Bank (https://databank.worldbank.org/home.aspx)
-![](https://github.com/kbolon1/Portfolio/blob/main/images/Diabetes_Plotly_2011.png)
-![](https://github.com/kbolon1/Portfolio/blob/main/images/Diabetes_Plotly_2021.png)
 * Created a Deep-Learning Environment for Tensorflow and Keras at the beginning and then moved to Google Colab as the sample size were large
 * Used Keras Preprocessing on the images to resize and to augment
 * Built my own CNN model with 3 Convoluted layers with MaxPooling, a Flattening layer, and 3 Dense Layers with Dropout and Batch Normalization while using a mix of RELU and Sigmoid activations and selected Categorical_crossentropy for loss function.
 * Tried a VGG19 model and then a ResNet152 model with transfer learning. Eventually trained it on a sample of 5000 images of each class with only 50% accuracy rate. I am still working on improving this.
+* Used Plotly to show the prevalence of diabetes with data pulled from the World Bank (https://databank.worldbank.org/home.aspx)
+
+<p align="center">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Diabetic_Accuracy_ResNet152.png" width="300" height="300">
+</p>
+![](https://github.com/kbolon1/Portfolio/blob/main/images/Diabetes_Plotly_2011.png)
+![](https://github.com/kbolon1/Portfolio/blob/main/images/Diabetes_Plotly_2021.png)
 
 ____
 
@@ -23,7 +27,7 @@ ____
 * Used Pandas and NumPy for data wrangling, calculated a transition probabilities matrix, implemented a customer class, and then run a MCMC simulation for customer(s).
 
 <p align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/MCMC_EDA.png" width="600" height="350" align="center">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/MCMC_EDA.png" width="600" height="350">
 </p>
 
 ____
@@ -33,10 +37,10 @@ ____
 * Built a web application that showcases movie recommendations using the small version of the MovieLens-dataset (https://grouplens.org/datasets/movielens/)
 * Performed data engineering on missing data(KNN Imputer, Mean Movie Ratings).
 * Implemented the following models trying to find the lowest Mean Error :
-	- Simple recommender based on correlations
-	- Non-Negative Matrix Factorization model
-	- KMeans (clustering)
-	- Nearest Neighbour
+    - Simple recommender based on correlations
+    - Non-Negative Matrix Factorization model
+    - KMeans (clustering)
+    - Nearest Neighbour
 * Wrote a flask web interface and connected the recommender-model to flask
 
 <p align="center">
@@ -49,11 +53,11 @@ ____
 # [Text Classification Project: Webscraping Lyrics](https://github.com/kbolon1/Web_Scraper)
 
 * Built a text classification model on song lyrics, the following was performed: 
-	- Downloaded an HTML page with links to songs (https://www.lyrics.com)
-	- Parsed HTML for hyperlinks to extract and download song lyrics
-	- Vectorized the text using the Bag Of Words method and normalised the word counts with term frequency-inverse document frequency (TF-IDF)
-	- Trained a classification model (Logistic Regression, Naive Bayes/MultinomialNB) that predicts the artist from a piece of text
-	- Created a shaped WordCloud for each artist
+    - Downloaded an HTML page with links to songs (https://www.lyrics.com)
+    - Parsed HTML for hyperlinks to extract and download song lyrics
+    - Vectorized the text using the Bag Of Words method and normalised the word counts with term frequency-inverse document frequency (TF-IDF)
+    - Trained a classification model (Logistic Regression, Naive Bayes/MultinomialNB) that predicts the artist from a piece of text
+    - Created a shaped WordCloud for each artist
 
 * Used Python, BeautifulSoup, RegEx, Glob, Pillow, WordCloud, Seaborn, NumPy, Pandas, SciKit-Learn
 
@@ -87,9 +91,9 @@ ____
 * Created a short-term temperature forecast using data from (www.ecad.eu).
 * Built a baseline model modelling trend and seasonality, plotted and inspected the different components of a time series.
 * Used the following models to model the time dependence of the remainder:
-	- Linear Regression
-	- Autoregression
-	- Auto Regressive Integreated Moving Average (ARIMA)
+    - Linear Regression
+    - Autoregression
+    - Auto Regressive Integreated Moving Average (ARIMA)
 * Evaluated the model using Cross-Validation Time Series Split
 
 <p float="left" align="center">
@@ -123,11 +127,11 @@ ____
 </p>
 
 * Project consisted of all phases of Machine Learning work-flow: 
-	- train-test-splitting of data, 
-	- data exploration, 
-	- feature engineering, 
-	- optimization of hyperparameters, 
-	- evaluation of models with cross-validation.
+    - train-test-splitting of data, 
+    - data exploration, 
+    - feature engineering, 
+    - optimization of hyperparameters, 
+    - evaluation of models with cross-validation.
 
 <p align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/titanic_graph.png" width="300" height="250">
@@ -142,12 +146,10 @@ ____
 * Imported and cleaned data, performed exploratory data analysis (EDA) 
 
 	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_graphs6.png)
-	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_heatmap.png)
 	
 * Performed Data Engineering using Pipelines, ColumnTransformer, OneHotEncoder, MinMaxScaler, StandardScaler, and RobustScaler
-* Trained regression models (Random Forest Regression, Linear Regression, Polynomial Regression with Cross Validation) to find the best Root Mean Squared Log Error (RMSLE)  
-* Used ElasticNet to regularise the model to prevent overfitting
-* Used Hyperparameter Optimization on Random Forest Regression Model and GridSearchCV
+* Trained regression models (Random Forest Regression, Linear Regression, Polynomial Regression, Cross Validation) to find the best Root Mean Squared Log Error (RMSLE)  
+* Used Hyperparameter Optimization on Random Forest Regression Model and GridSearchCV then ElasticNet to regularise the model to prevent overfitting
 
 <p align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png" width="350" height="175">
@@ -157,7 +159,8 @@ ____
 
 # [Image Classification: Neural Networks Using Webcam](https://github.com/kbolon1/Image_Classification_Webcam)
 
-* Built an image classifier by collecting my own photos through a webcam to make predictions on images
+* Built an image classifier by collecting photos through a webcam to make predictions on images
+* Used Python, NumPy, Pillow, Seaborn, CV2, Glob, SciKit-Learn, TensorFlow, and Keras
 * Created a deep learning environment to run tensorflow and keras
 * Built a neural network from scratch and then used transfer learning with a pretrained model (MobileNetV2) with transfer learning
 
