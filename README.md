@@ -5,8 +5,8 @@ Final project for Spiced Academy.
 The number of cases and the prevalence of diabetes have been steadily increasing over the past few decades with approximately 422 million people diagnosed worldwide. Diabetic retinopathy is a complication of diabetes, caused by high blood sugar levels that damage the back of the eye.  It can cause blindness if left undiagnosed and untreated.  It is also the leading cause of vision impairment in the world and is 100% avoidable.
 
 <p float="left" align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Diabetes_Plotly_2011.png" width="500" height="400">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Diabetes_Plotly_2021.png" width="500" height="400">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Diabetes_Plotly_2011.png" width="400" height="400">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Diabetes_Plotly_2021.png" width="400" height="400">
 </p>
 
 Used Plotly with data pulled from the World Bank (https://databank.worldbank.org/home.aspx)
