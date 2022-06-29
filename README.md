@@ -3,9 +3,9 @@
 Trained a model to distinguish between an eye suffering from diabetic retinopathy (blindness caused by high blood sugar levels) and a healthy eye. 
 ![](https://github.com/kbolon1/Portfolio/blob/main/images/Eye_Fundus.png)
 Datasets from Kaggle, I used the preprocessed images:
-- https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
-- https://www.kaggle.com/competitions/aptos2019-blindness-detection/data
-- https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data
+    - https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
+    - https://www.kaggle.com/competitions/aptos2019-blindness-detection/data
+    - https://www.kaggle.com/competitions/diabetic-retinopathy-detection/data
 
 * Created a Deep-Learning Environment for Tensorflow and Keras at the beginning and then moved to Google Colab as the sample size were large
 * Used Keras Preprocessing on the images to resize and to augment
@@ -16,6 +16,7 @@ Datasets from Kaggle, I used the preprocessed images:
 <p align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Diabetic_Accuracy_ResNet152.png" width="300" height="300">
 </p>
+
 ![](https://github.com/kbolon1/Portfolio/blob/main/images/Diabetes_Plotly_2011.png)
 ![](https://github.com/kbolon1/Portfolio/blob/main/images/Diabetes_Plotly_2021.png)
 
