@@ -75,18 +75,27 @@ Datasets from Kaggle, I used the preprocessed images:
 * Used PostgreSQL to create tables in database, uploaded the data AWS EC2 Ubuntu server and then connected to Metabase to create a Dashboard.
 
 # [Visual Data Analysis: Gapminder Data with GIFs of Fertility Rate vs Life Expectancy](https://github.com/kbolon1/Gapminder)
-
 * Collected data from gapminder project (https://www.gapminder.org/data/)
-* Used pandas to import and merge data 
-* Created GIF using Seaborn and ImageIO
+
+* Used python, pandas, seaborn, matplotlib, and NumPy to wrangle and explore data
+* Created GIF using Seaborn and ImageIO showing fertility rate vs life expectancy between 1960 - 2016
 
 	![](https://github.com/kbolon1/Portfolio/blob/main/images/gapminder_output.gif)
 
 # [Classification Project: Titanic Dataset (Predicting Survival Rates)](https://github.com/kbolon1/Titanic_Dataset)
 
+* Used python, pandas, seaborn, NymPy, matplotlib, sklearn
 * Collected data from Kaggle (https://www.kaggle.com/c/titanic)
-* Built and compared a variety of Machine Learning classifiers with scikit-learn (logistic regression, support vector machine, decision trees, random forest) to predict survival of passengers on the Titanic
-* Project consisted of all phases of Machine Learning work-flow (train-test-splitting of data, data exploration, feature engineering, optimization of hyperparameters, evaluation of models with cross-validation)
+* Implemented and compared a variety of Machine Learning classifiers with scikit-learn (logistic regression, support vector machine, random forest) to predict survival of passengers on the Titanic
+
+![](https://github.com/kbolon1/Portfolio/blob/main/images/Titanic_CrossAccuracyLogs.png)
+
+* Project consisted of all phases of Machine Learning work-flow: 
+	- train-test-splitting of data, 
+	- data exploration, 
+	- feature engineering, 
+	- optimization of hyperparameters, 
+	- evaluation of models with cross-validation.
 
 A graph showing those that survived vs perished by age.
 	![](https://github.com/kbolon1/Portfolio/blob/main/images/titanic_graph.png)
