@@ -42,17 +42,24 @@ Datasets from Kaggle, I used the preprocessed images:
 # [Text Classification Project: Webscraping Lyrics](https://github.com/kbolon1/Web_Scraper)
 * Built a text classification model on song lyrics, the following was performed: 
 	- Downloaded an HTML page with links to songs (https://www.lyrics.com)
-	- Extracted hyperlinks of songs to download and extract song lyrics
+	- Parsed HTML for hyperlinks to extract and download song lyrics
 	- Vectorized the text using the Bag Of Words method and normalised the word counts with term frequency-inverse document frequency (TF-IDF)
-	- Trained a classification model (logistic regression model) that predicts the artist from a piece of text
+	- Trained a classification model (Logistic Regression, Naive Bayes/MultinomialNB) that predicts the artist from a piece of text
+	- Created a shaped WordCloud for each artist
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="250" height="250">    
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="250" height="250">  
-
+* Used Python, BeautifulSoup, RegEx, Glob, Pillow, WordCloud, Seaborn, NumPy, Pandas, SciKit-Learn
+<p float="left">
+<img src="/https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="250" height="250"/>    
+<img src="/https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="250" height="250"/>  
+</p>
 # [Sentiment Analysis Project: Twitter API (Docker and MongoDB](https://github.com/kbolon1/Twitter_Pipeline)
+* Spiced Academy Project
 
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_workflow.png" width="350" height="250" class="center"> 
+
+* Used Python, MongoDB, Tweeter APIs, tweepy, Docker.
 * Built a data pipeline with Docker-compose that collected tweets and stored them in a MongoDB database. 
-* Created an ETL job that pulled the tweets from MongoDB for sentiment analysis and then stored the analysed tweets on a second database (PostgreSQL).
+* Created an ETL job that pulled the tweets from MongoDB, cleans data and calculates compound sentiment score (Vader Sentiment Analysis) for sentiment analysis and then stored the analysed tweets on a second database (PostgreSQL).
 
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_Sentiment_George_Takei.png" width="500" height="300"> 
 
@@ -72,7 +79,7 @@ Datasets from Kaggle, I used the preprocessed images:
 # [Project: Dashboard using Northwind Database (AWS/EC2/Ubuntu/Metabase)](https://github.com/kbolon1/Dashboard_PostgreSQL)
 
 * Build a dashboard summarizing the Northwind Database (a sample database from Microsoft Access). 
-* Used PostgreSQL to create tables in database, uploaded the data AWS EC2 Ubuntu server and then connected to Metabase to create a Dashboard.
+* Used PostgreSQL to create tables in database (data modeling), uploaded the data AWS EC2 Ubuntu server and then connected to Metabase to create a Dashboard.
 
 # [Visual Data Analysis: Gapminder Data with GIFs of Fertility Rate vs Life Expectancy](https://github.com/kbolon1/Gapminder)
 * Collected data from gapminder project (https://www.gapminder.org/data/)
@@ -105,16 +112,16 @@ A confusion matrix on the Random Forest Model:
 	
 # [Regression Analysis Project: Capital Bike Sharing](https://github.com/kbolon1/Regression_Analysis)
 
-* Built and trained a regression model on the Capital Bike Share (Washington, D.C.) Kaggle data set (https://www.kaggle.com/competitions/bike-sharing-demand/data), in order to predict demand for bicycle rentals at any given hour, based on time and weather
-* Imported and cleaned data, performed exploratory data analysis (EDA) using Pandas 
+* Used Python, Pandas, NumPy, Matplotlib, Seaborn, math, SciKit-Learn 
+* Built and trained a regression model on the Capital Bike Share (Washington, D.C.) from the Kaggle data set (https://www.kaggle.com/competitions/bike-sharing-demand/data) to predict demand for bicycle rentals at any given hour based on time and weather
+* Imported and cleaned data, performed exploratory data analysis (EDA) 
 
-	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_rentals.png)
 	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_graphs6.png)
 	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_heatmap.png)
 	
 * Performed Data Engineering using Pipelines, ColumnTransformer, OneHotEncoder, MinMaxScaler, StandardScaler, and RobustScaler
 * Trained regression models (Random Forest Regression, Linear Regression, Polynomial Regression with Cross Validation) to find the best Root Mean Squared Log Error (RMSLE)  
-* Used ElasticNet to regularise the model
+* Used ElasticNet to regularise the model to prevent overfitting
 * Used Hyperparameter Optimization on Random Forest Regression Model and GridSearchCV
 
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png" width="450" height="200">
