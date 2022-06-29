@@ -23,7 +23,7 @@ Datasets from Kaggle, I used the preprocessed images:
 * Created a simulation of customer behavior in a supermarket using Markov-Chain Monte Carlo methods.
 * Used Pandas and NumPy for data wrangling, calculated a transition probabilities matrix, implemented a customer class, and then run a MCMC simulation for customer(s).
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/MCMC_EDA.png" width="500" height="350">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/MCMC_EDA.png" width="500" height="350" align="center">
 
 # [Recommender Systems: Movie Recommender](https://github.com/kbolon1/Movie_Recommender)
 
@@ -36,8 +36,8 @@ Datasets from Kaggle, I used the preprocessed images:
 	- Nearest Neighbour
 * Wrote a flask web interface and connected the recommender-model to flask
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Main.png" width="600" height="400">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Second.png" width="600" height="400">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Main.png" width="600" height="400" align="center">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Second.png" width="600" height="400" align="center">
 
 # [Text Classification Project: Webscraping Lyrics](https://github.com/kbolon1/Web_Scraper)
 * Built a text classification model on song lyrics, the following was performed: 
@@ -52,7 +52,9 @@ Datasets from Kaggle, I used the preprocessed images:
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="250" height="250"/>    
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="250" height="250"/>  
 </p>
+
 # [Sentiment Analysis Project: Twitter API (Docker and MongoDB](https://github.com/kbolon1/Twitter_Pipeline)
+
 * Spiced Academy Project
 
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_workflow.png" width="600" height="300" class="center"> 
@@ -61,7 +63,7 @@ Datasets from Kaggle, I used the preprocessed images:
 * Built a data pipeline with Docker-compose that collected tweets and stored them in a MongoDB database. 
 * Created an ETL job that pulled the tweets from MongoDB, cleans data and calculates compound sentiment score (Vader Sentiment Analysis) for sentiment analysis and then stored the analysed tweets on a second database (PostgreSQL).
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_Sentiment_George_Takei.png" width="500" height="300"> 
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_Sentiment_George_Takei.png" width="500" height="300" align="center"> 
 
 # [Project: Short-Term Weather Forecast-Time Series Analysis](https://github.com/kbolon1/Time_Series_Analysis)
 
@@ -73,8 +75,8 @@ Datasets from Kaggle, I used the preprocessed images:
 	- Auto Regressive Integreated Moving Average (ARIMA)
 * Evaluated the model using Cross-Validation Time Series Split
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Temp_Seasonality.png" width="500" height="300"> 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/ARIMA_chart.png" width="500" height="300"> 
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Temp_Seasonality.png" width="500" height="300" align="center"> 
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/ARIMA_chart.png" width="500" height="300" align="center"> 
 
 # [Project: Dashboard using Northwind Database (AWS/EC2/Ubuntu/Metabase)](https://github.com/kbolon1/Dashboard_PostgreSQL)
 
@@ -124,7 +126,7 @@ A confusion matrix on the Random Forest Model:
 * Used ElasticNet to regularise the model to prevent overfitting
 * Used Hyperparameter Optimization on Random Forest Regression Model and GridSearchCV
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png" width="450" height="200">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png" width="450" height="200" align="center">
      
 
 # [Image Classification: Neural Networks Using Webcam](https://github.com/kbolon1/Image_Classification_Webcam)
@@ -133,6 +135,6 @@ A confusion matrix on the Random Forest Model:
 * Created a deep learning environment to run tensorflow and keras
 * Built a neural network from scratch and then used transfer learning with a pretrained model (MobileNetV2) with transfer learning
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/5Things_accuracy.png" width="600" height="400">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Predictions.png" width="400" height="300">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Flower.png" width="200" height="200">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/5Things_accuracy.png" width="600" height="400" align="center">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Predictions.png" width="400" height="300" align="center">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Flower.png" width="200" height="200" align="center">
