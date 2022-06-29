@@ -3,7 +3,7 @@ My Portfolio
 
 # [Image Classification Using Transfer Learning on ResNet152 Model](https://github.com/kbolon1/Diabetic_Retinopathy_Image_Classifier)
 
-Goal: to train a model to distinguish between an eye suffering from diabetic retinopathy (blindness caused by high blood sugar levels) and a healthy eye. 
+Trained a model to distinguish between an eye suffering from diabetic retinopathy (blindness caused by high blood sugar levels) and a healthy eye. 
 ![](https://github.com/kbolon1/Portfolio/blob/main/images/Eye_Fundus.png)
 Datasets from Kaggle, I used the preprocessed images:
 	- https://www.kaggle.com/datasets/andrewmvd/ocular-disease-recognition-odir5k
@@ -25,7 +25,9 @@ ____
 * Created a simulation of customer behavior in a supermarket using Markov-Chain Monte Carlo methods.
 * Used Pandas and NumPy for data wrangling, calculated a transition probabilities matrix, implemented a customer class, and then run a MCMC simulation for customer(s).
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/MCMC_EDA.png" width="500" height="350" align="center">
+<p align="center">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/MCMC_EDA.png" width="600" height="350" align="center">
+</p>
 
 ____
 
@@ -39,13 +41,16 @@ ____
 	- KMeans (clustering)
 	- Nearest Neighbour
 * Wrote a flask web interface and connected the recommender-model to flask
-
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Main.png" width="600" height="400" align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Second.png" width="600" height="400" align="center">
-
+* 
+<p align="center">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Main.png" width="600" height="450">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Second.png" width="600" height="450">
+</p>
+	
 ____
 
 # [Text Classification Project: Webscraping Lyrics](https://github.com/kbolon1/Web_Scraper)
+
 * Built a text classification model on song lyrics, the following was performed: 
 	- Downloaded an HTML page with links to songs (https://www.lyrics.com)
 	- Parsed HTML for hyperlinks to extract and download song lyrics
@@ -54,6 +59,7 @@ ____
 	- Created a shaped WordCloud for each artist
 
 * Used Python, BeautifulSoup, RegEx, Glob, Pillow, WordCloud, Seaborn, NumPy, Pandas, SciKit-Learn
+
 <p float="left" align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="250" height="250"/>    
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="250" height="250"/>  
@@ -64,13 +70,15 @@ ____
 # [Sentiment Analysis Project: Twitter API (Docker and MongoDB](https://github.com/kbolon1/Twitter_Pipeline)
 
 * Spiced Academy Project
+
 <p align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_workflow.png" width="600" height="300"> 
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_workflow.png" width="650" height="400"> 
 </p>
 
 * Used Python, MongoDB, Tweeter APIs, tweepy, Docker.
 * Built a data pipeline with Docker-compose that collected tweets and stored them in a MongoDB database. 
 * Created an ETL job that pulled the tweets from MongoDB, cleans data and calculates compound sentiment score (Vader Sentiment Analysis) for sentiment analysis and then stored the analysed tweets on a second database (PostgreSQL).
+
 <p align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_Sentiment_George_Takei.png" width="500" height="300" align="center"> 
 </p>
@@ -86,6 +94,7 @@ ____
 	- Autoregression
 	- Auto Regressive Integreated Moving Average (ARIMA)
 * Evaluated the model using Cross-Validation Time Series Split
+
 <p float="left" align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Temp_Seasonality.png" width="500" height="300" align="center"/> 
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/ARIMA_chart.png" width="500" height="300" align="center"/> 
@@ -94,10 +103,12 @@ ____
 ____
 
 # [Visual Data Analysis: Gapminder Data with GIFs of Fertility Rate vs Life Expectancy](https://github.com/kbolon1/Gapminder)
+
 * Collected data from gapminder project (https://www.gapminder.org/data/)
 
 * Used python, pandas, seaborn, matplotlib, and NumPy to wrangle and explore data
 * Created GIF using Seaborn and ImageIO showing fertility rate vs life expectancy between 1960 - 2016
+
 <p align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/gapminder_output.gif" width="400" height="300">
 </p>
@@ -111,7 +122,7 @@ ____
 * Implemented and compared a variety of Machine Learning classifiers with scikit-learn (logistic regression, support vector machine, random forest) to predict survival of passengers on the Titanic
 
 <p align="center">
-![](https://github.com/kbolon1/Portfolio/blob/main/images/Titanic_CrossAccuracyLogs.png)
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Titanic_CrossAccuracyLogs.png" width="300" height="175">
 </p>
 
 * Project consisted of all phases of Machine Learning work-flow: 
@@ -121,13 +132,13 @@ ____
 	- optimization of hyperparameters, 
 	- evaluation of models with cross-validation.
 
-	![](https://github.com/kbolon1/Portfolio/blob/main/images/titanic_graph.png "Survival vs Perished by Age")
- 
- 	![](https://github.com/kbolon1/Portfolio/blob/main/images/titanic_confusionmatrix.png "Confusion Matrix on RFM")
+<p align="center">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/titanic_graph.png" width="300" height="250">
+</p>
 	
-# [Regression Analysis Project: Capital Bike Sharing](https://github.com/kbolon1/Regression_Analysis)
-
 ____
+
+# [Regression Analysis Project: Capital Bike Sharing](https://github.com/kbolon1/Regression_Analysis)
 
 * Used Python, Pandas, NumPy, Matplotlib, Seaborn, math, SciKit-Learn 
 * Built and trained a regression model on the Capital Bike Share (Washington, D.C.) from the Kaggle data set (https://www.kaggle.com/competitions/bike-sharing-demand/data) to predict demand for bicycle rentals at any given hour based on time and weather
@@ -141,7 +152,7 @@ ____
 * Used ElasticNet to regularise the model to prevent overfitting
 * Used Hyperparameter Optimization on Random Forest Regression Model and GridSearchCV
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png" width="350" height="175" align="center">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png" width="350" height="175">
      
 ____
 
@@ -150,6 +161,7 @@ ____
 * Built an image classifier by collecting my own photos through a webcam to make predictions on images
 * Created a deep learning environment to run tensorflow and keras
 * Built a neural network from scratch and then used transfer learning with a pretrained model (MobileNetV2) with transfer learning
+
 <p align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/5Things_accuracy.png" width="600" height="400">
 </p>
@@ -162,5 +174,5 @@ ____
 
 # [Project: Dashboard using Northwind Database (AWS/EC2/Ubuntu/Metabase)](https://github.com/kbolon1/Dashboard_PostgreSQL)
 
-* Build a dashboard summarizing the Northwind Database (a sample database from Microsoft Access). 
+* Built a dashboard summarizing the Northwind Database (a sample database from Microsoft Access). 
 * Used PostgreSQL to create tables in database (data modeling), uploaded the data AWS EC2 Ubuntu server and then connected to Metabase to create a Dashboard.
