@@ -18,12 +18,16 @@ Datasets from Kaggle, I used the preprocessed images:
 * Built my own CNN model with 3 Convoluted layers with MaxPooling, a Flattening layer, and 3 Dense Layers with Dropout and Batch Normalization while using a mix of RELU and Sigmoid activations and selected Categorical_crossentropy for loss function.
 * Tried a VGG19 model and then a ResNet152 model with transfer learning. Eventually trained it on a sample of 5000 images of each class with only 50% accuracy rate. I am still working on improving this.
 
+____
+
 # [Markov Chain Monte Carlo: Predicting Customer Behavior](https://github.com/kbolon1/MCMC_Supermarket)
 
 * Created a simulation of customer behavior in a supermarket using Markov-Chain Monte Carlo methods.
 * Used Pandas and NumPy for data wrangling, calculated a transition probabilities matrix, implemented a customer class, and then run a MCMC simulation for customer(s).
 
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/MCMC_EDA.png" width="500" height="350" align="center">
+
+____
 
 # [Recommender Systems: Movie Recommender](https://github.com/kbolon1/Movie_Recommender)
 
@@ -39,6 +43,8 @@ Datasets from Kaggle, I used the preprocessed images:
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Main.png" width="600" height="400" align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Second.png" width="600" height="400" align="center">
 
+____
+
 # [Text Classification Project: Webscraping Lyrics](https://github.com/kbolon1/Web_Scraper)
 * Built a text classification model on song lyrics, the following was performed: 
 	- Downloaded an HTML page with links to songs (https://www.lyrics.com)
@@ -52,6 +58,8 @@ Datasets from Kaggle, I used the preprocessed images:
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="250" height="250"/>    
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="250" height="250"/>  
 </p>
+
+____
 
 # [Sentiment Analysis Project: Twitter API (Docker and MongoDB](https://github.com/kbolon1/Twitter_Pipeline)
 
@@ -67,6 +75,8 @@ Datasets from Kaggle, I used the preprocessed images:
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_Sentiment_George_Takei.png" width="500" height="300" align="center"> 
 </p>
 
+____
+
 # [Project: Short-Term Weather Forecast-Time Series Analysis](https://github.com/kbolon1/Time_Series_Analysis)
 
 * Created a short-term temperature forecast using data from (www.ecad.eu).
@@ -81,10 +91,7 @@ Datasets from Kaggle, I used the preprocessed images:
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/ARIMA_chart.png" width="500" height="300" align="center"/> 
 </p>
 
-# [Project: Dashboard using Northwind Database (AWS/EC2/Ubuntu/Metabase)](https://github.com/kbolon1/Dashboard_PostgreSQL)
-
-* Build a dashboard summarizing the Northwind Database (a sample database from Microsoft Access). 
-* Used PostgreSQL to create tables in database (data modeling), uploaded the data AWS EC2 Ubuntu server and then connected to Metabase to create a Dashboard.
+____
 
 # [Visual Data Analysis: Gapminder Data with GIFs of Fertility Rate vs Life Expectancy](https://github.com/kbolon1/Gapminder)
 * Collected data from gapminder project (https://www.gapminder.org/data/)
@@ -94,7 +101,9 @@ Datasets from Kaggle, I used the preprocessed images:
 <p align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/gapminder_output.gif" width="400" height="300">
 </p>
-	
+
+____
+
 # [Classification Project: Titanic Dataset (Predicting Survival Rates)](https://github.com/kbolon1/Titanic_Dataset)
 
 * Used python, pandas, seaborn, NymPy, matplotlib, sklearn
@@ -112,13 +121,13 @@ Datasets from Kaggle, I used the preprocessed images:
 	- optimization of hyperparameters, 
 	- evaluation of models with cross-validation.
 
-A graph showing those that survived vs perished by age.
-	![](https://github.com/kbolon1/Portfolio/blob/main/images/titanic_graph.png)
+	![](https://github.com/kbolon1/Portfolio/blob/main/images/titanic_graph.png "Survival vs Perished by Age")
  
-A confusion matrix on the Random Forest Model: 
- 	![](https://github.com/kbolon1/Portfolio/blob/main/images/titanic_confusionmatrix.png)
+ 	![](https://github.com/kbolon1/Portfolio/blob/main/images/titanic_confusionmatrix.png "Confusion Matrix on RFM")
 	
 # [Regression Analysis Project: Capital Bike Sharing](https://github.com/kbolon1/Regression_Analysis)
+
+____
 
 * Used Python, Pandas, NumPy, Matplotlib, Seaborn, math, SciKit-Learn 
 * Built and trained a regression model on the Capital Bike Share (Washington, D.C.) from the Kaggle data set (https://www.kaggle.com/competitions/bike-sharing-demand/data) to predict demand for bicycle rentals at any given hour based on time and weather
@@ -134,6 +143,7 @@ A confusion matrix on the Random Forest Model:
 
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png" width="350" height="175" align="center">
      
+____
 
 # [Image Classification: Neural Networks Using Webcam](https://github.com/kbolon1/Image_Classification_Webcam)
 
@@ -147,3 +157,10 @@ A confusion matrix on the Random Forest Model:
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Predictions.png" width="400" height="300" align="center"/>
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Flower.png" width="200" height="200" align="center"/>
 </p>
+
+____
+
+# [Project: Dashboard using Northwind Database (AWS/EC2/Ubuntu/Metabase)](https://github.com/kbolon1/Dashboard_PostgreSQL)
+
+* Build a dashboard summarizing the Northwind Database (a sample database from Microsoft Access). 
+* Used PostgreSQL to create tables in database (data modeling), uploaded the data AWS EC2 Ubuntu server and then connected to Metabase to create a Dashboard.
