@@ -24,7 +24,7 @@ ResNet152 Neural Network model with transfer learning with the following paramet
  - 2 Classes 'diabetic' or 'healthy'
  - Epochs 300, no early stopping
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Eye_Fundus.png" width="400" height="200">
+<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Eye_Fundus.PNG" width="400" height="200">
 
 I used the unprocessed images found on Kaggle:
  - https://www.kaggle.com/competitions/diabetic-retinopathy-detection
