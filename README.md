@@ -51,7 +51,7 @@ ____
 
 ![]()
 <p align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/MCMC_EDA.png" width="600" height="350">
+<img src="./images/MCMC_EDA.png" width="600" height="350">
 </p>
 
 ____
@@ -69,8 +69,8 @@ ____
 
 ![]()
 <p align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Main.png" width="600" height="400">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Second.png" width="600" height="400">
+<img src="./images/Movie_Recommender_Main.png" width="600" height="400">
+<img src="./images/Movie_Recommender_Second.png" width="600" height="400">
 </p>
 	
 ____
@@ -88,8 +88,8 @@ ____
 
 ![]()
 <p float="left" align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="400" height="400"/>    
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="400" height="400"/>  
+<img src="./images/maplehip.png" width="400" height="400"/>    
+<img src="./images/stargwen.png" width="400" height="400"/>  
 </p>
 
 ____
@@ -100,7 +100,7 @@ ____
 
 ![]()
 <p align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_workflow.png" width="650" height="350"> 
+<img src="./images/Twitter_workflow.png" width="650" height="350"> 
 </p>
 
 * Used Python, MongoDB, Tweeter APIs, tweepy, Docker.
@@ -109,7 +109,7 @@ ____
 
 ![]()
 <p align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_Sentiment_George_Takei.png" width="450" height="300" align="center"> 
+<img src="./images/Twitter_Sentiment_George_Takei.png" width="450" height="300" align="center"> 
 </p>
 
 ____
@@ -126,8 +126,8 @@ ____
 
 ![]()
 <p float="left" align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Temp_Seasonality.png" width="500" height="300" align="center"/> 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/ARIMA_chart.png" width="500" height="300" align="center"/> 
+<img src="./images/Temp_Seasonality.png" width="500" height="300" align="center"/> 
+<img src="./images/ARIMA_chart.png" width="500" height="300" align="center"/> 
 </p>
 
 ____
@@ -141,7 +141,7 @@ ____
 
 ![]()
 <p align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/gapminder_output.gif" width="500" height="400">
+<img src="./images/gapminder_output.gif" width="500" height="400">
 </p>
 
 ____
@@ -154,7 +154,7 @@ ____
 
 ![]()
 <p align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Titanic_CrossAccuracyLogs.png" width="300" height="175">
+<img src="./images/Titanic_CrossAccuracyLogs.png" width="300" height="175">
 </p>
 
 * Project consisted of all phases of Machine Learning work-flow: 
@@ -166,7 +166,7 @@ ____
 
 ![]()
 <p align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/titanic_graph.png" width="300" height="250">
+<img src="./images/titanic_graph.png" width="300" height="250">
 </p>
 	
 ____
@@ -177,7 +177,7 @@ ____
 * Built and trained a regression model on the Capital Bike Share (Washington, D.C.) from the Kaggle data set (https://www.kaggle.com/competitions/bike-sharing-demand/data) to predict demand for bicycle rentals at any given hour based on time and weather
 * Imported and cleaned data, performed exploratory data analysis (EDA) 
 
-	![](https://github.com/kbolon1/Portfolio/blob/main/images/bike_graphs6.png)
+	![](/images/bike_graphs6.png)
 	
 * Performed Data Engineering using Pipelines, ColumnTransformer, OneHotEncoder, MinMaxScaler, StandardScaler, and RobustScaler
 * Trained regression models (Random Forest Regression, Linear Regression, Polynomial Regression, Cross Validation) to find the best Root Mean Squared Log Error (RMSLE)  
@@ -185,7 +185,7 @@ ____
 
 ![]()
 <p align="center">
-[https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png width="350" height="175"]
+<img src="./images/bike_result_RMSLE.png" width="350" height="175">
 </p>
 	
 ____
@@ -199,11 +199,11 @@ ____
 
 ![]()
 <p align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/5Things_accuracy.png" width="700" height="300">
+<img src="./images/5Things_accuracy.png" width="700" height="300">
 </p>
 <p float="left" align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Predictions.png" width="400" height="300" align="center"/>
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Flower.png" width="200" height="200" align="center"/>
+<img src="./images/Predictions.png" width="400" height="300" align="center"/>
+<img src="./images/Flower.png" width="200" height="200" align="center"/>
 </p>
 
 ____
