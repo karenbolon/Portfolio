@@ -173,7 +173,7 @@ ____
 * Used Hyperparameter Optimization on Random Forest Regression Model and GridSearchCV then ElasticNet to regularise the model to prevent overfitting
 
 <p align="center">
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png" width="350" height="175">
+[[https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png width="350" height="175"]]
 </p>
 	
 ____
