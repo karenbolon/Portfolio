@@ -4,6 +4,7 @@
 
 The number of cases and the prevalence of diabetes have been steadily increasing over the past few decades with approximately 422 million people diagnosed worldwide. Diabetic retinopathy is a complication of diabetes, caused by high blood sugar levels that damage the back of the eye.  It can cause blindness if left undiagnosed and untreated.  It is also the leading cause of vision impairment in the world and is 100% avoidable.
 
+![](./images/Diabetes_Plotly_2011.png)
 <p float="left" align="center">
 <img src="./images/Diabetes_Plotly_2011.png" width="400" height="300">
 <img src="./images/Diabetes_Plotly_2021.png" width="400" height="300">
@@ -24,7 +25,7 @@ ResNet152 Neural Network model with transfer learning with the following paramet
  - 2 Classes 'diabetic' or 'healthy'
  - Epochs 300, no early stopping
 
-<img src="https://github.com/kbolon1/Portfolio/blob/main/images/Eye_Fundus.PNG" width="400" height="200">
+<img src="./images/Eye_Fundus.PNG" width="400" height="200">
 
 I used the unprocessed images found on Kaggle:
  - https://www.kaggle.com/competitions/diabetic-retinopathy-detection
@@ -173,7 +174,7 @@ ____
 * Used Hyperparameter Optimization on Random Forest Regression Model and GridSearchCV then ElasticNet to regularise the model to prevent overfitting
 
 <p align="center">
-[[https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png width="350" height="175"]]
+[https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png width="350" height="175"]
 </p>
 	
 ____
