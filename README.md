@@ -25,7 +25,8 @@ ResNet152 Neural Network model with transfer learning with the following paramet
  - 2 Classes 'diabetic' or 'healthy'
  - Epochs 300, no early stopping
 
-<img src="./images/Eye_Fundus.PNG" width="400" height="200">
+![]()
+<img src="./images/Eye_Fundus.png" width="400" height="200">
 
 I used the unprocessed images found on Kaggle:
  - https://www.kaggle.com/competitions/diabetic-retinopathy-detection
@@ -48,6 +49,7 @@ ____
 * Created a simulation of customer behavior in a supermarket using Markov-Chain Monte Carlo methods.
 * Used Pandas and NumPy for data wrangling, calculated a transition probabilities matrix, implemented a customer class, and then run a MCMC simulation for customer(s).
 
+![]()
 <p align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/MCMC_EDA.png" width="600" height="350">
 </p>
@@ -65,6 +67,7 @@ ____
     - Nearest Neighbour
 * Wrote a flask web interface and connected the recommender-model to flask
 
+![]()
 <p align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Main.png" width="600" height="400">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Movie_Recommender_Second.png" width="600" height="400">
@@ -83,6 +86,7 @@ ____
 
 * Used Python, BeautifulSoup, RegEx, Glob, Pillow, WordCloud, Seaborn, NumPy, Pandas, SciKit-Learn
 
+![]()
 <p float="left" align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/maplehip.png" width="400" height="400"/>    
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/stargwen.png" width="400" height="400"/>  
@@ -94,6 +98,7 @@ ____
 
 * Spiced Academy Project
 
+![]()
 <p align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_workflow.png" width="650" height="350"> 
 </p>
@@ -102,6 +107,7 @@ ____
 * Built a data pipeline with Docker-compose that collected tweets and stored them in a MongoDB database. 
 * Created an ETL job that pulled the tweets from MongoDB, cleans data and calculates compound sentiment score (Vader Sentiment Analysis) for sentiment analysis and then stored the analysed tweets on a second database (PostgreSQL).
 
+![]()
 <p align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Twitter_Sentiment_George_Takei.png" width="450" height="300" align="center"> 
 </p>
@@ -118,6 +124,7 @@ ____
     - Auto Regressive Integreated Moving Average (ARIMA)
 * Evaluated the model using Cross-Validation Time Series Split
 
+![]()
 <p float="left" align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Temp_Seasonality.png" width="500" height="300" align="center"/> 
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/ARIMA_chart.png" width="500" height="300" align="center"/> 
@@ -132,6 +139,7 @@ ____
 * Used python, pandas, seaborn, matplotlib, and NumPy to wrangle and explore data
 * Created GIF using Seaborn and ImageIO showing fertility rate vs life expectancy between 1960 - 2016
 
+![]()
 <p align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/gapminder_output.gif" width="500" height="400">
 </p>
@@ -144,6 +152,7 @@ ____
 * Collected data from Kaggle (https://www.kaggle.com/c/titanic)
 * Implemented and compared a variety of Machine Learning classifiers with scikit-learn (logistic regression, support vector machine, random forest) to predict survival of passengers on the Titanic
 
+![]()
 <p align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/Titanic_CrossAccuracyLogs.png" width="300" height="175">
 </p>
@@ -155,6 +164,7 @@ ____
     - optimization of hyperparameters, 
     - evaluation of models with cross-validation.
 
+![]()
 <p align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/titanic_graph.png" width="300" height="250">
 </p>
@@ -173,6 +183,7 @@ ____
 * Trained regression models (Random Forest Regression, Linear Regression, Polynomial Regression, Cross Validation) to find the best Root Mean Squared Log Error (RMSLE)  
 * Used Hyperparameter Optimization on Random Forest Regression Model and GridSearchCV then ElasticNet to regularise the model to prevent overfitting
 
+![]()
 <p align="center">
 [https://github.com/kbolon1/Portfolio/blob/main/images/bike_result_RMSLE.png width="350" height="175"]
 </p>
@@ -186,6 +197,7 @@ ____
 * Created a deep learning environment to run tensorflow and keras
 * Built a neural network from scratch and then used transfer learning with a pretrained model (MobileNetV2) with transfer learning
 
+![]()
 <p align="center">
 <img src="https://github.com/kbolon1/Portfolio/blob/main/images/5Things_accuracy.png" width="700" height="300">
 </p>
