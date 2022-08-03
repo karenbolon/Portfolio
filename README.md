@@ -90,7 +90,7 @@ ____
 
 ![]()
 <p align="center">
-<img src="./images/Twitter_workflow.png" width="600" height="450"> 
+<img src="./images/Twitter_workflow.png" width="700" height="400"> 
 </p>
 
 * This can help entities analyse target customer sentiment.  They can learn how their products or even themselves are viewed and adjust accordingly.
