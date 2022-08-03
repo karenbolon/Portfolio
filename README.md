@@ -96,7 +96,7 @@ ____
 ____
 
 
-# [Sentiment Analysis Project: Twitter API (Docker and MongoDB](https://github.com/kbolon1/Twitter_Pipeline)
+# [Sentiment Analysis Project: Twitter API (Docker and MongoDB)](https://github.com/kbolon1/Twitter_Pipeline)
 
 
 ![]()
