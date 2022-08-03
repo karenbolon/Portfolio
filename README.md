@@ -13,7 +13,7 @@ Trained a neural network classification model (ResNet152) with transfer learning
 Used Plotly with data pulled from the World Bank (https://databank.worldbank.org/home.aspx)
 
 ![]()
-<img src="./images/Eye_Fundus.png" width="350" height="225">
+<img src="./images/Eye_Fundus.png" width="400" height="200">
 
 I used the unprocessed images found on Kaggle:
  - https://www.kaggle.com/competitions/diabetic-retinopathy-detection
