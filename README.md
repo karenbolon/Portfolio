@@ -2,12 +2,13 @@
 
 **Final project for Spiced Academy** 
 
+
 Trained a neural network classification model (ResNet152) with transfer learning to identify between a healthy eye or an eye suffering from diabetic retinopathy with over 10,000 images (5000 images of each class) using data augmentation.  This aims to improve the mass screening of populations and eventually decrease medical costs through computer-aided diagnosis. This is crucial as the number of cases and the prevalence of diabetes have steadily increased over the past few decades with approximately 422 million people diagnosed worldwide. Diabetic retinopathy is a complication of diabetes, caused by high blood sugar levels that damage the back of the eye.  It can cause blindness if left undiagnosed and untreated.  It is also the leading cause of vision impairment in the world and is 100% avoidable.
 
 ![]()
 <p float="left" align="center">
-<img src="./images/Diabetes_Plotly_2011.png" title="Prevalence of Diabetes in 2011 per the Worldbank" width="400" height="325">
-<img src="./images/Diabetes_Plotly_2021.png" title="Prevalence of Diabetes in 2021 per the Worldbank"  width="400" height="325">
+<img src="./images/Diabetes_Plotly_2011.png" title="Prevalence of Diabetes in 2011 per the Worldbank" width="500" height="325">
+<img src="./images/Diabetes_Plotly_2021.png" title="Prevalence of Diabetes in 2021 per the Worldbank"  width="500" height="325">
 </p>
 
 Used Plotly with data pulled from the World Bank (https://databank.worldbank.org/home.aspx)
@@ -28,9 +29,11 @@ I used the unprocessed images found on Kaggle:
 **Currently:**
 I have started over and changed the model to use the LazyAdam optimizer and will process the images differently.  I am researching best ways to preprocess the images.  Stay tuned for updates.
 
+
 ____
 
 # [Markov Chain Monte Carlo: Predicting Customer Behavior](https://github.com/kbolon1/MCMC_Supermarket)
+
 
 * This helps companies analyse typical clientele behavior in order to improve profitability and customer satisfaction.  MCMC can help companies understand their clients buying process to find the key levers where they can influence a buyer's decision(s). This can describe for example:  
     - How often do they visit this part of the website/store? and for how long?
@@ -43,9 +46,11 @@ ____
 <img src="./images/MCMC_EDA.png" width="600" height="350">
 </p>
 
+
 ____
 
 # [Recommender Systems: Movie Recommender](https://github.com/kbolon1/Movie_Recommender)
+
 
 * This helps entities estimate the products (in this case movies) their clients will most likely want to view.  This reduces costs by only providing products that are needed and improve client retention by improving client experience through well-suited movie recommendations.
 * Built a web application that showcases movie recommendations using the small version of the MovieLens-dataset (https://grouplens.org/datasets/movielens/)
@@ -62,10 +67,12 @@ ____
 <img src="./images/Movie_Recommender_Main.png" width="600" height="350">
 <img src="./images/Movie_Recommender_Second.png" width="600" height="350">
 </p>
-	
+
+
 ____
 
 # [Text Classification Project: Webscraping Lyrics](https://github.com/kbolon1/Web_Scraper)
+
 
 * Built a text classification model on song lyrics, the following was performed: 
     - Downloaded an HTML page with links to songs (https://www.lyrics.com)
@@ -82,11 +89,11 @@ ____
 <img src="./images/stargwen.png" width="400" height="400"/>  
 </p>
 
+
 ____
 
 # [Sentiment Analysis Project: Twitter API (Docker and MongoDB](https://github.com/kbolon1/Twitter_Pipeline)
 
-* Spiced Academy Project
 
 ![]()
 <p align="center">
@@ -103,9 +110,11 @@ ____
 <img src="./images/Twitter_Sentiment_George_Takei.png" width="450" height="300" align="center"> 
 </p>
 
+
 ____
 
 # [Project: Short-Term Weather Forecast-Time Series Analysis](https://github.com/kbolon1/Time_Series_Analysis)
+
 
 * This model analysed a large set of historical data, identified patterns in order to predict future outcomes. 
 * Created a short-term temperature forecast using data from (www.ecad.eu).
@@ -122,9 +131,11 @@ ____
 <img src="./images/ARIMA_chart.png" width="500" height="300" align="center"/> 
 </p>
 
+
 ____
 
 # [Visual Data Analysis: Gapminder Data with GIFs of Fertility Rate vs Life Expectancy](https://github.com/kbolon1/Gapminder)
+
 
 * Visualised a large set of data for communication in an easily digestible format.
 * Collected data from gapminder project (https://www.gapminder.org/data/)
@@ -136,9 +147,11 @@ ____
 <img src="./images/gapminder_output.gif" width="500" height="400">
 </p>
 
+
 ____
 
 # [Classification Project: Titanic Dataset (Predicting Survival Rates)](https://github.com/kbolon1/Titanic_Dataset)
+
 
 * Analysed known data to find key predictive variables (or feature optimization) to enhance models for future data analysis. This model used historical data to predict survival rate on the Titanic.
 * Used python, pandas, seaborn, NymPy, matplotlib, sklearn
@@ -161,10 +174,12 @@ ____
 <p align="center">
 <img src="./images/titanic_graph.png" width="400" height="250">
 </p>
-	
+
+
 ____
 
 # [Regression Analysis Project: Capital Bike Sharing](https://github.com/kbolon1/Regression_Analysis)
+
 
 * This model retains clients by providing a seemless customer experience while using a fit-for-purpose inventory. This helps entities forecast customer demand and ultimately optimise their inventory and minimise capital expenditures.  
 * Used Python, Pandas, NumPy, Matplotlib, Seaborn, math, SciKit-Learn 
@@ -181,10 +196,12 @@ ____
 <p align="center">
 <img src="./images/bike_result_RMSLE.png" width="350" height="175">
 </p>
-	
+
+
 ____
 
 # [Image Classification: Neural Networks Using Webcam](https://github.com/kbolon1/Image_Classification_Webcam)
+
 
 * Built an image classifier by collecting photos through a webcam to make predictions on images
 * Used Python, NumPy, Pillow, Seaborn, CV2, Glob, SciKit-Learn, TensorFlow, and Keras
@@ -200,9 +217,11 @@ ____
 <img src="./images/Flower.png" width="200" height="200" align="center"/>
 </p>
 
+
 ____
 
 # [Project: Dashboard using Northwind Database (AWS/EC2/Ubuntu/Metabase)](https://github.com/kbolon1/Dashboard_PostgreSQL)
+
 
 * Built a dashboard summarizing the Northwind Database (a sample database from Microsoft Access). 
 * Used PostgreSQL to create tables in database (data modeling), uploaded the data AWS EC2 Ubuntu server and then connected to Metabase to create a Dashboard.
