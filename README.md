@@ -13,7 +13,7 @@ Trained a neural network classification model (ResNet152) with transfer learning
 Used Plotly with data pulled from the World Bank (https://databank.worldbank.org/home.aspx)
 
 ![]()
-<img src="./images/Eye_Fundus.png" width="400" height="225">
+<img src="./images/Eye_Fundus.png" width="350" height="225">
 
 I used the unprocessed images found on Kaggle:
  - https://www.kaggle.com/competitions/diabetic-retinopathy-detection
@@ -32,7 +32,7 @@ ____
 
 # [Markov Chain Monte Carlo: Predicting Customer Behavior](https://github.com/kbolon1/MCMC_Supermarket)
 
-* This helps companies analyse typical clientel behavior in order to improve profitability and customer satisfaction.  MCMC can help companies understand their clients buying process to find the key levers where they can influence a buyer's decision(s). This can describe for example:  
+* This helps companies analyse typical clientele behavior in order to improve profitability and customer satisfaction.  MCMC can help companies understand their clients buying process to find the key levers where they can influence a buyer's decision(s). This can describe for example:  
     - How often do they visit this part of the website/store? and for how long?
     - How much will they likely spend? etc.
 * Created a simulation of customer behavior in a supermarket using Markov-Chain Monte Carlo methods.
