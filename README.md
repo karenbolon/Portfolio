@@ -159,7 +159,7 @@ ____
 
 ![]()
 <p align="center">
-<img src="./images/titanic_graph.png" width="300" height="250">
+<img src="./images/titanic_graph.png" width="400" height="250">
 </p>
 	
 ____
