@@ -32,6 +32,7 @@ I have started over and changed the model to use the LazyAdam optimizer and will
 
 ____
 
+
 # [Markov Chain Monte Carlo: Predicting Customer Behavior](https://github.com/kbolon1/MCMC_Supermarket)
 
 
@@ -48,6 +49,7 @@ ____
 
 
 ____
+
 
 # [Recommender Systems: Movie Recommender](https://github.com/kbolon1/Movie_Recommender)
 
@@ -71,6 +73,7 @@ ____
 
 ____
 
+
 # [Text Classification Project: Webscraping Lyrics](https://github.com/kbolon1/Web_Scraper)
 
 
@@ -91,6 +94,7 @@ ____
 
 
 ____
+
 
 # [Sentiment Analysis Project: Twitter API (Docker and MongoDB](https://github.com/kbolon1/Twitter_Pipeline)
 
@@ -113,6 +117,7 @@ ____
 
 ____
 
+
 # [Project: Short-Term Weather Forecast-Time Series Analysis](https://github.com/kbolon1/Time_Series_Analysis)
 
 
@@ -134,6 +139,7 @@ ____
 
 ____
 
+
 # [Visual Data Analysis: Gapminder Data with GIFs of Fertility Rate vs Life Expectancy](https://github.com/kbolon1/Gapminder)
 
 
@@ -149,6 +155,7 @@ ____
 
 
 ____
+
 
 # [Classification Project: Titanic Dataset (Predicting Survival Rates)](https://github.com/kbolon1/Titanic_Dataset)
 
@@ -178,6 +185,7 @@ ____
 
 ____
 
+
 # [Regression Analysis Project: Capital Bike Sharing](https://github.com/kbolon1/Regression_Analysis)
 
 
@@ -200,6 +208,7 @@ ____
 
 ____
 
+
 # [Image Classification: Neural Networks Using Webcam](https://github.com/kbolon1/Image_Classification_Webcam)
 
 
@@ -219,6 +228,7 @@ ____
 
 
 ____
+
 
 # [Project: Dashboard using Northwind Database (AWS/EC2/Ubuntu/Metabase)](https://github.com/kbolon1/Dashboard_PostgreSQL)
 
