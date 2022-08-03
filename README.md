@@ -147,7 +147,7 @@ ____
 
 ![]()
 <p align="center">
-<img src="./images/Titanic_CrossAccuracyLogs.png" width="300" height="175">
+<img src="./images/Titanic_CrossAccuracyLogs.png" width="400" height="175">
 </p>
 
 * Project consisted of all phases of Machine Learning work-flow: 
