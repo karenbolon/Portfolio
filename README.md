@@ -59,8 +59,8 @@ ____
 
 ![]()
 <p align="center">
-<img src="./images/Movie_Recommender_Main.png" width="600" height="450">
-<img src="./images/Movie_Recommender_Second.png" width="600" height="450">
+<img src="./images/Movie_Recommender_Main.png" width="600" height="350">
+<img src="./images/Movie_Recommender_Second.png" width="600" height="350">
 </p>
 	
 ____
