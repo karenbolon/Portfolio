@@ -47,7 +47,7 @@ ____
 
 # [Recommender Systems: Movie Recommender](https://github.com/kbolon1/Movie_Recommender)
 
-* This helps entities estimate the products (in this case movies) their clients will most likely want to view.  This can help reduce costs by only providing products that are needed.  In addition, this can improve client retention by improving client experience through well-suited movie recommendations.
+* This helps entities estimate the products (in this case movies) their clients will most likely want to view.  This reduces costs by only providing products that are needed and improve client retention by improving client experience through well-suited movie recommendations.
 * Built a web application that showcases movie recommendations using the small version of the MovieLens-dataset (https://grouplens.org/datasets/movielens/)
 * Performed data engineering on missing data(KNN Imputer, Mean Movie Ratings).
 * Implemented the following models trying to find the lowest Mean Error :
