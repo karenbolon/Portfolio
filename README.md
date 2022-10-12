@@ -1,4 +1,4 @@
-# [Image Classification Using Neural Networks](https://github.com/kbolon1/Diabetic_Retinopathy_Image_Classifier)
+# [Image Classification Using Neural Networks](https://github.com/kbolon1/Diabetic_Image_Classifier)
 
 **Final project for Spiced Academy** 
 
