@@ -160,7 +160,7 @@ ____
 # [Classification Project: Titanic Dataset (Predicting Survival Rates)](https://github.com/kbolon1/Titanic_Dataset)
 (https://www.kaggle.com/karenbolon)
 
-Ranked in the top 6% of the Kaggle Titanic Competition (872 out of 14,257 submissions)
+**Ranked in the top 6% of the Kaggle Titanic Competition (872 out of 14,257 submissions)**
 
 **Business use:**  
 A prediction model can help companies target specific clientele to help with cost savings. For example, pretend you are a Sporting Goods company and you are initiating a new marketing campaign to acquire new customers.  You would want to target specific sporty people to ensure a better conversion rate of new customers.  Your money would be better spent targeting people with similar likes than randomly selecting people.
