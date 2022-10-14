@@ -165,6 +165,7 @@ Ranked in the top 6% of the Kaggle Titanic Competition (872 out of 14,257 submis
 **Business use:**  
 A prediction model can help companies target specific clientele to help with cost savings. For example, pretend you are a Sporting Goods company and you are initiating a new marketing campaign to acquire new customers.  You would want to target specific sporty people to ensure a better conversion rate of new customers.  Your money would be better spent targeting people with similar likes than randomly selecting people.
 
+**Method:**
 * Analysed known data to find key predictive variables (or feature optimization) to enhance models for future data analysis. This model used historical data to predict survival rate on the Titanic.
 * Collected data from Kaggle (https://www.kaggle.com/c/titanic)
 * Implemented and compared a variety of Machine Learning classifiers with scikit-learn (logistic regression, support vector machine, random forest) to predict survival of passengers on the Titanic
