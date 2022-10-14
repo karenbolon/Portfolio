@@ -158,10 +158,14 @@ ____
 
 
 # [Classification Project: Titanic Dataset (Predicting Survival Rates)](https://github.com/kbolon1/Titanic_Dataset)
+(https://www.kaggle.com/karenbolon)
 
+Ranked in the top 6% of the Kaggle Titanic Competition (872 out of 14,257 submissions)
+
+**Business use:**  
+A prediction model can help companies target specific clientele to help with cost savings. For example, pretend you are a Sporting Goods company and you are initiating a new marketing campaign to acquire new customers.  You would want to target specific sporty people to ensure a better conversion rate of new customers.  Your money would be better spent targeting people with similar likes than randomly selecting people.
 
 * Analysed known data to find key predictive variables (or feature optimization) to enhance models for future data analysis. This model used historical data to predict survival rate on the Titanic.
-* Used python, pandas, seaborn, NymPy, matplotlib, sklearn
 * Collected data from Kaggle (https://www.kaggle.com/c/titanic)
 * Implemented and compared a variety of Machine Learning classifiers with scikit-learn (logistic regression, support vector machine, random forest) to predict survival of passengers on the Titanic
 
@@ -169,7 +173,6 @@ ____
 <p align="center">
 <img src="./images/Titanic_CrossAccuracyLogs.png" width="400" height="175">
 </p>
-
 * Project consisted of all phases of Machine Learning work-flow: 
     - train-test-splitting of data, 
     - data exploration, 
@@ -177,11 +180,16 @@ ____
     - optimization of hyperparameters, 
     - evaluation of models with cross-validation.
 
+A correlation matrix: 
 ![]()
 <p align="center">
-<img src="./images/titanic_graph.png" width="400" height="250">
+<img src="./images/Titanic_correlations.png" width="600" height="500">
 </p>
 
+With the above matrix, it is easy to see the features with the strongest positive correlations (orange) and the features with the strongest negative correlations (black).
+
+**Conclusion:**
+I was able to attain a 79% accuracy score on my predicted/submitted values. 
 
 ____
 
