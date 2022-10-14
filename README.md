@@ -180,7 +180,6 @@ A prediction model can help companies target specific clientele to help with cos
     - data exploration,
     - feature engineering, 
     - optimization of hyperparameters, 
-    - data exploration,
     - evaluation of models with cross-validation.
 
 A correlation matrix: 
