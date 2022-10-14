@@ -175,11 +175,12 @@ A prediction model can help companies target specific clientele to help with cos
 <img src="./images/Titanic_CrossAccuracyLogs.png" width="400" height="175">
 </p>
 
-Project consisted of all phases of Machine Learning work-flow: 
+* Project consisted of all phases of Machine Learning work-flow:
     - train-test-splitting of data, 
-    - data exploration, 
+    - data exploration,
     - feature engineering, 
     - optimization of hyperparameters, 
+    - data exploration,
     - evaluation of models with cross-validation.
 
 A correlation matrix: 
