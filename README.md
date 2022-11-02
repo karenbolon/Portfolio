@@ -1,8 +1,5 @@
 # [Image Classification Using Neural Networks](https://github.com/kbolon1/Diabetic_Image_Classifier)
 
-**Final project for Spiced Academy** 
-
-
 Trained a neural network classification model (ResNet152) with transfer learning to identify between a healthy eye or an eye suffering from diabetic retinopathy with over 10,000 images (5000 images of each class) using data augmentation.  This aims to improve the mass screening of populations and eventually decrease medical costs through computer-aided diagnosis. This is crucial as the number of cases and the prevalence of diabetes have steadily increased over the past few decades with approximately 422 million people diagnosed worldwide. Diabetic retinopathy is a complication of diabetes, caused by high blood sugar levels that damage the back of the eye.  It can cause blindness if left undiagnosed and untreated.  It is also the leading cause of vision impairment in the world and is 100% avoidable.
 
 ![]()
