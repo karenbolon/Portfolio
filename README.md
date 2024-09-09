@@ -1,3 +1,22 @@
+# [Bayer Challenge 2023](https://github.com/karenbolon/Bayer_challenge/blob/main/README.md)
+
+As part of the Bayer Coding Challenge, this project was completed in collaboration with 3 other 42Berlin students.  This project visualizes the Wisconsin Breast Cancer dataset in an interactive dashboard which offers exploratory data analysis, machine learning model predictions, and AI-driven insights about the data. The goal is to find valuable patterns and train a machine learning model to improve breast cancer diagnosis.
+
+Features:
+Integrated OpenAI for answering dataset-related queries.
+Includes SHAP analysis to interpret the models' predictions.
+You can access the dashboard via the following:
+
+Online Dashboard
+Due to security, we could not keep a working version of our streamlit app.  Please watch our quick video showcasing our app: 
+
+[![Watch the video](https://img.youtube.com/vi/gaWY_N0boyg/maxresdefault.jpg)](https://www.youtube.com/watch?v=gaWY_N0boyg)
+
+
+____
+
+
+
 # [Image Classification Using Neural Networks](https://github.com/kbolon1/Diabetic_Image_Classifier)
 
 Trained a neural network classification model (ResNet152) with transfer learning to identify between a healthy eye or an eye suffering from diabetic retinopathy with over 10,000 images (5000 images of each class) using data augmentation.  This aims to improve the mass screening of populations and eventually decrease medical costs through computer-aided diagnosis. This is crucial as the number of cases and the prevalence of diabetes have steadily increased over the past few decades with approximately 422 million people diagnosed worldwide. Diabetic retinopathy is a complication of diabetes, caused by high blood sugar levels that damage the back of the eye.  It can cause blindness if left undiagnosed and untreated.  It is also the leading cause of vision impairment in the world and is 100% avoidable.
@@ -9,9 +28,6 @@ Trained a neural network classification model (ResNet152) with transfer learning
 </p>
 
 Used Plotly with data pulled from the World Bank (https://databank.worldbank.org/home.aspx)
-
-![]()
-<img src="./images/Eye_Fundus.png" width="400" height="200">
 
 I used the unprocessed images found on Kaggle:
  - https://www.kaggle.com/competitions/diabetic-retinopathy-detection
