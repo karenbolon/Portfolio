@@ -1,6 +1,6 @@
-# [Bayer Data Science Meets Biology Hackathon 2024])(https://github.com/karenbolon/Bayer_2024)
+# [Bayer Hackathon 2024]](https://github.com/karenbolon/Bayer_2024)
 
-Our team won the category 'Sensitivity and Uncertainty in Predictive Models' at the Bayer and Max Delbrück Center Hackathon.  It was a collaborative effort with 4 other people (2 from Max Delbrück Center and 2 from 42 Berlin).
+Our team won the category 'Sensitivity and Uncertainty in Predictive Models' at the Bayer and Max Delbrück Center "Data Science Meets Biology Hackathon" Hackathon 2024.  It was a collaborative effort with 4 other people (2 from Max Delbrück Center and 2 from 42 Berlin).
 
 ## Project Outline
 Our project focused on analyzing how point mutations in amino acid sequences affect nanobody thermostability. Leveraging our knowledge of biochemistry and amino acid properties, we quantified shifts in model predictions and evaluated their consistency with anticipated results. This interdisciplinary project—spanning bioinformatics, molecular biology, and machine learning—was an incredible experience, showcasing the transformative potential of computational tools in advancing pharmaceutical research.
