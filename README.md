@@ -1,4 +1,20 @@
-# [Bayer Challenge 2023](https://github.com/karenbolon/Bayer_challenge/blob/main/README.md)
+# [Bayer Data Science Meets Biology Hackathon 2024])(https://github.com/karenbolon/Bayer_2024)
+
+Our team won the category 'Sensitivity and Uncertainty in Predictive Models' at the Bayer and Max Delbrück Center Hackathon.  It was a collaborative effort with 4 other people (2 from Max Delbrück Center and 2 from 42 Berlin).
+
+## Project Outline
+Our project focused on analyzing how point mutations in amino acid sequences affect nanobody thermostability. Leveraging our knowledge of biochemistry and amino acid properties, we quantified shifts in model predictions and evaluated their consistency with anticipated results. This interdisciplinary project—spanning bioinformatics, molecular biology, and machine learning—was an incredible experience, showcasing the transformative potential of computational tools in advancing pharmaceutical research.
+
+Trained model used (TEMPRO model):  https://github.com/Jerome-Alvarez/TEMPRO/tree/main Goals:
+
+
+
+____
+
+
+
+
+# [Bayer Challenge 2023](https://github.com/karenbolon/Bayer_challenge)
 
 As part of the Bayer Coding Challenge, this project was completed in collaboration with 3 other 42Berlin students.  This project visualizes the Wisconsin Breast Cancer dataset in an interactive dashboard which offers exploratory data analysis, machine learning model predictions, and AI-driven insights about the data. The goal is to find valuable patterns and train a machine learning model to improve breast cancer diagnosis.
 
