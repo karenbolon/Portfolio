@@ -1,6 +1,5 @@
 # [WebServ](https://github.com/karenbolon/Webserv)
 
-## Project Outline
 Built with a colleague, a lightweight HTTP server in C++98 with NGINX-style configuration, supporting virtual hosts, CGI execution, file uploads, and non-blocking I/O using poll(). Designed to handle multiple routes and HTTP methods with custom error pages and static file serving.
 
 
@@ -8,7 +7,6 @@ ____
 
 # [Cub3D](https://github.com/karenbolon/CUB3D)
 
-## Project Outline
 Developed with a colleague, a retro-style 3D FPS game inspired by Wolfenstein 3D, using C and raycasting techniques with the MiniLibX graphics library. Built core game mechanics from scratch, including player movement, rendering, and collision detection.
 
 
