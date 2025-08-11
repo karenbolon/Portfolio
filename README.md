@@ -7,7 +7,7 @@ Built with a colleague, a lightweight HTTP server in C++98 with NGINX-style conf
 <img src="./images/Welcome_message.png" width="600" height="350">
 </p>
 
-[Click here to see walkthrough ]([url](https://youtu.be/ZJMYhFc1wIo))
+[Click here to see walkthrough: ](https://youtu.be/ZJMYhFc1wIo "YouTube video")
 
 ![]()
 <p align="center">
@@ -52,7 +52,7 @@ You can access the dashboard via the following:
 Online Dashboard
 Due to security, we could not keep a working version of our streamlit app.  Please watch our quick video showcasing our app: 
 
-[Click here to see walkthrough]([url](https://www.youtube.com/watch?v=gaWY_N0boyg))
+[Click here to see walkthrough](https://www.youtube.com/watch?v=gaWY_N0boyg "YouTube video")
 
 ____
 
