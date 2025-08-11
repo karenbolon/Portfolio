@@ -4,14 +4,14 @@ Built with a colleague, a lightweight HTTP server in C++98 with NGINX-style conf
 
 ![]()
 <p align="center">
-<img src="./github_images/Welcome_message.png" width="600" height="350">
+<img src="./images/Welcome_message.png" width="600" height="350">
 </p>
 
 [Click here to see walkthrough ]([url](https://youtu.be/ZJMYhFc1wIo))
 
 ![]()
 <p align="center">
-<img src="./github_images/terminal_messages.png" width="350" height="600">
+<img src="./images/terminal_messages.png" width="350" height="600">
 </p>
 
 ____
