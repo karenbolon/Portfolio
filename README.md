@@ -2,6 +2,17 @@
 
 Built with a colleague, a lightweight HTTP server in C++98 with NGINX-style configuration, supporting virtual hosts, CGI execution, file uploads, and non-blocking I/O using poll(). Designed to handle multiple routes and HTTP methods with custom error pages and static file serving.
 
+![]()
+<p align="center">
+<img src="./github_images/Welcome_message.png" width="600" height="350">
+</p>
+
+[Click here to see walkthrough ]([url](https://youtu.be/ZJMYhFc1wIo))
+
+![]()
+<p align="center">
+<img src="./github_images/terminal_messages.png" width="350" height="600">
+</p>
 
 ____
 
@@ -41,8 +52,7 @@ You can access the dashboard via the following:
 Online Dashboard
 Due to security, we could not keep a working version of our streamlit app.  Please watch our quick video showcasing our app: 
 
-[![Watch the video](https://img.youtube.com/vi/gaWY_N0boyg/maxresdefault.jpg)](https://www.youtube.com/watch?v=gaWY_N0boyg)
-
+[Click here to see walkthrough]([url](https://www.youtube.com/watch?v=gaWY_N0boyg))
 
 ____
 
