@@ -1,3 +1,20 @@
+# [Transcendence](https://github.com/karenbolon/Transcendence)
+
+Transcendence is a full-stack web application built in collaboration with a team as part of the final 42 curriculum project. It features a real-time multiplayer Pong game with user authentication, matchmaking, and social functionality (chat, profiles, friends), showcasing end-to-end development across frontend, backend, and database systems, along with real-time communication and scalable architecture.
+
+![]()
+<p align="center">
+<img src="./images/welcome_pong.png" width="600" height="350">
+</p>
+
+[Click here to see walkthrough: ](https://youtu.be/NcVrbmodkiI "YouTube video")
+
+![]()
+<p align="center">
+<img src="./images/terminal_messages.png" width="350" height="600">
+</p>
+
+____
 # [WebServ](https://github.com/karenbolon/Webserv)
 
 Built with a colleague, a lightweight HTTP server in C++98 with NGINX-style configuration, supporting virtual hosts, CGI execution, file uploads, and non-blocking I/O using poll(). Designed to handle multiple routes and HTTP methods with custom error pages and static file serving.
@@ -13,13 +30,6 @@ Built with a colleague, a lightweight HTTP server in C++98 with NGINX-style conf
 <p align="center">
 <img src="./images/terminal_messages.png" width="350" height="600">
 </p>
-
-____
-
-# [Cub3D](https://github.com/karenbolon/CUB3D)
-
-Developed with a colleague, a retro-style 3D FPS game inspired by Wolfenstein 3D, using C and raycasting techniques with the MiniLibX graphics library. Built core game mechanics from scratch, including player movement, rendering, and collision detection.
-
 
 ____
 
