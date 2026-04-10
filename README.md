@@ -4,15 +4,11 @@ Transcendence is a full-stack web application built in collaboration with a team
 
 ![]()
 <p align="center">
-<img src="./images/welcome_pong.png" width="600" height="350">
+<img src="./images/Pong.png" width="600" height="350">
 </p>
 
 [Click here to see walkthrough: ](https://youtu.be/NcVrbmodkiI "YouTube video")
 
-![]()
-<p align="center">
-<img src="./images/terminal_messages.png" width="350" height="600">
-</p>
 
 ____
 # [WebServ](https://github.com/karenbolon/Webserv)
